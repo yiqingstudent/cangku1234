@@ -1,0 +1,178 @@
+{
+  "35abe8d3731d8add4e39f03cc194a56b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "31101a65c982df9e",
+      "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/10/allure/#testresult/31101a65c982df9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592291177087,
+        "stop" : 1592291177088,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3241a97074612dfc",
+      "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/9/allure/#testresult/3241a97074612dfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592291011279,
+        "stop" : 1592291011279,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8913fb92b768e67ad8b5a4cc55113a52" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "99abeb9f8f8cd3ef",
+      "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/10/allure/#testresult/99abeb9f8f8cd3ef",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1592270987740,
+        "stop" : 1592271015483,
+        "duration" : 27743
+      }
+    }, {
+      "uid" : "d79f2e7c1467752a",
+      "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/9/allure/#testresult/d79f2e7c1467752a",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1592270987740,
+        "stop" : 1592271015483,
+        "duration" : 27743
+      }
+    } ]
+  },
+  "c8aa08d9759a2873557b1ab2284ac756" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "390214f91676829f",
+      "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/10/allure/#testresult/390214f91676829f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592277792071,
+        "stop" : 1592277837959,
+        "duration" : 45888
+      }
+    }, {
+      "uid" : "f90f17357813f3cb",
+      "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/9/allure/#testresult/f90f17357813f3cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592277792071,
+        "stop" : 1592277837959,
+        "duration" : 45888
+      }
+    } ]
+  },
+  "67607e4a36cf275c442c2a9dc33773e1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ddd652faea9168ae",
+      "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/10/allure/#testresult/ddd652faea9168ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592271015513,
+        "stop" : 1592271060430,
+        "duration" : 44917
+      }
+    }, {
+      "uid" : "5663e6d00208d4bc",
+      "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/9/allure/#testresult/5663e6d00208d4bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592271015513,
+        "stop" : 1592271060430,
+        "duration" : 44917
+      }
+    } ]
+  },
+  "ca94c206863ba29b9e481dd1c3ab08ba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "3b4520b52a6d5bc",
+      "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/10/allure/#testresult/3b4520b52a6d5bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592270860304,
+        "stop" : 1592270908872,
+        "duration" : 48568
+      }
+    }, {
+      "uid" : "14b9115d7c89bce9",
+      "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/9/allure/#testresult/14b9115d7c89bce9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592270860304,
+        "stop" : 1592270908872,
+        "duration" : 48568
+      }
+    } ]
+  },
+  "586d0bdeba7311a18258d323abcb9f72" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e0814ecdc14c3e8a",
+      "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/10/allure/#testresult/e0814ecdc14c3e8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592291173594,
+        "stop" : 1592291174826,
+        "duration" : 1232
+      }
+    }, {
+      "uid" : "37503adaba4069ac",
+      "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/9/allure/#testresult/37503adaba4069ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592291007071,
+        "stop" : 1592291008181,
+        "duration" : 1110
+      }
+    } ]
+  }
+}

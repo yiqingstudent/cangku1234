@@ -1,0 +1,29 @@
+INFO     root:basepage.py:50 登录页面-用户名输入模块:等待('id', 'username')元素可见.
+INFO     root:basepage.py:62 登录页面-用户名输入模块：等待元素可见成功！开始时间为2020-06-15 17:54:00.087264，结束时间为2020-06-15 17:54:00.117183,耗时0:00:00.029919
+INFO     root:basepage.py:97 登录页面-用户名输入模块:开始查找元素('id', 'username')
+INFO     root:basepage.py:109 登录页面-用户名输入模块：查找元素成功，开始时间为2020-06-15 17:54:00.118180，结束时间为2020-06-15 17:54:00.125162,耗时0:00:00.006982
+INFO     root:basepage.py:249 登录页面-用户名输入#模块:('id', 'username')元素的输入框值为J3205823010050
+INFO     root:basepage.py:262 登录页面-用户名输入模块：输入成功！开始时间为2020-06-15 17:54:00.125162，结束时间为2020-06-15 17:54:00.217916,耗时0:00:00.092754
+INFO     root:basepage.py:50 登录页面-密码输入模块:等待('id', 'pswd')元素可见.
+INFO     root:basepage.py:62 登录页面-密码输入模块：等待元素可见成功！开始时间为2020-06-15 17:54:00.218911，结束时间为2020-06-15 17:54:00.252863,耗时0:00:00.033952
+INFO     root:basepage.py:97 登录页面-密码输入模块:开始查找元素('id', 'pswd')
+INFO     root:basepage.py:109 登录页面-密码输入模块：查找元素成功，开始时间为2020-06-15 17:54:00.252863，结束时间为2020-06-15 17:54:00.261797,耗时0:00:00.008934
+INFO     root:basepage.py:249 登录页面-密码输入#模块:('id', 'pswd')元素的输入框值为123123
+INFO     root:basepage.py:262 登录页面-密码输入模块：输入成功！开始时间为2020-06-15 17:54:00.261797，结束时间为2020-06-15 17:54:00.295706,耗时0:00:00.033909
+INFO     root:test_jhxd_apply.py:573 ******正常场景17：按揭-中长期-简化信贷的模板*****
+INFO     root:basepage.py:50 菜单-信贷业务模块:等待('xpath', '//span[text()="信贷业务"]')元素可见.
+INFO     root:basepage.py:62 菜单-信贷业务模块：等待元素可见成功！开始时间为2020-06-15 17:54:00.296703，结束时间为2020-06-15 17:54:01.122544,耗时0:00:00.825841
+INFO     root:basepage.py:97 菜单-信贷业务模块:开始查找元素('xpath', '//span[text()="信贷业务"]')
+INFO     root:basepage.py:109 菜单-信贷业务模块：查找元素成功，开始时间为2020-06-15 17:54:01.122544，结束时间为2020-06-15 17:54:01.131521,耗时0:00:00.008977
+INFO     root:basepage.py:197 菜单-信贷业务模块：对元素('xpath', '//span[text()="信贷业务"]')进行点击操作begin......
+INFO     root:basepage.py:208 菜单-信贷业务模块：鼠标移动到元素并点击成功，开始时间为2020-06-15 17:54:01.131521，结束时间为2020-06-15 17:54:08.509961,耗时0:00:07.378440
+INFO     root:basepage.py:50 菜单-业务申请办理模块:等待('xpath', '//a[text()="业务申请办理"]')元素可见.
+ERROR    root:basepage.py:56 此元素('xpath', '//a[text()="业务申请办理"]')可能不可见，请确认下元素定位是否正确
+Traceback (most recent call last):
+  File "G:\2020_AUTO\2020xindai_pytest_web\Common\basepage.py", line 53, in wait_ele_visible
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO     root:basepage.py:45 当前图片保存在路径为G:\2020_AUTO\2020xindai_pytest_web\Outputs/screenshots/菜单-业务申请办理_2020-06-15 17_54_18.png

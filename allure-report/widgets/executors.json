@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://172.31.19.92:8096/",
+  "buildOrder" : 11,
+  "buildName" : "xindai_web_allure #11",
+  "buildUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/11/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/11/allure"
+} ]

@@ -1,0 +1,46 @@
+六月 15, 2020 5:40:31 下午 org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+信息: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+六月 16, 2020 11:15:37 上午 org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+信息: Master isn't ready to talk to us on http://172.31.19.92:8096/tcpSlaveAgentListener/. Will try again: response code=503
+六月 16, 2020 11:15:48 上午 org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+信息: Master isn't ready to talk to us on http://172.31.19.92:8096/tcpSlaveAgentListener/. Will try again: response code=503
+六月 16, 2020 11:15:58 上午 org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+信息: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+六月 16, 2020 11:24:14 上午 org.jvnet.winp.Native loadByUrl
+警告: Failed to load DLL from static location
+java.lang.UnsatisfiedLinkError: Native Library G:\2020_AUTO\2020xindai_pytest_web\remoting\jarCache\44\winp.x64.BFFE30B3B50581290B1866EF8D48C609.dll already loaded in another classloader
+	at java.lang.ClassLoader.loadLibrary0(Unknown Source)
+	at java.lang.ClassLoader.loadLibrary(Unknown Source)
+	at java.lang.Runtime.load0(Unknown Source)
+	at java.lang.System.load(Unknown Source)
+	at org.jvnet.winp.Native.loadDll(Native.java:242)
+	at org.jvnet.winp.Native.loadByUrl(Native.java:162)
+	at org.jvnet.winp.Native.load(Native.java:124)
+	at org.jvnet.winp.Native.<clinit>(Native.java:93)
+	at org.jvnet.winp.WinProcess.enableDebugPrivilege(WinProcess.java:245)
+	at hudson.util.ProcessTree$Windows.<clinit>(ProcessTree.java:701)
+	at hudson.util.ProcessTree.get(ProcessTree.java:447)
+	at hudson.Launcher$RemoteLauncher$KillTask.call(Launcher.java:1100)
+	at hudson.Launcher$RemoteLauncher$KillTask.call(Launcher.java:1091)
+	at hudson.remoting.UserRequest.perform(UserRequest.java:211)
+	at hudson.remoting.UserRequest.perform(UserRequest.java:54)
+	at hudson.remoting.Request$2.run(Request.java:369)
+	at hudson.remoting.InterceptingExecutorService$1.call(InterceptingExecutorService.java:72)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at hudson.remoting.Engine$1.lambda$newThread$0(Engine.java:117)
+	at java.lang.Thread.run(Unknown Source)
+
+六月 16, 2020 2:09:54 下午 org.jenkinsci.remoting.util.AnonymousClassWarnings warn
+警告: Attempt to (de-)serialize anonymous class ru.yandex.qatools.allure.jenkins.utils.BuildUtils$1; see: https://jenkins.io/redirect/serialization-of-anonymous-classes/
+六月 16, 2020 2:09:54 下午 org.jenkinsci.remoting.util.AnonymousClassWarnings warn
+警告: Attempt to (de-)serialize anonymous class ru.yandex.qatools.allure.jenkins.tools.AllureCommandlineInstallation$2; see: https://jenkins.io/redirect/serialization-of-anonymous-classes/
+六月 16, 2020 2:09:54 下午 org.jenkinsci.remoting.util.AnonymousClassWarnings warn
+警告: Attempt to (de-)serialize anonymous class ru.yandex.qatools.allure.jenkins.tools.AllureCommandlineInstallation$1; see: https://jenkins.io/redirect/serialization-of-anonymous-classes/
+六月 16, 2020 4:51:36 下午 org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+信息: Master isn't ready to talk to us on http://172.31.19.92:8096/tcpSlaveAgentListener/. Will try again: response code=503
+六月 16, 2020 4:51:46 下午 org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver waitForReady
+信息: Master isn't ready to talk to us on http://172.31.19.92:8096/tcpSlaveAgentListener/. Will try again: response code=503
+六月 16, 2020 4:51:56 下午 org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+信息: Remoting server accepts the following protocols: [JNLP4-connect, Ping]

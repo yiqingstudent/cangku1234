@@ -1,0 +1,26 @@
+ Sat, 18 Jul 2020 10:26:14  INFO basepage.py wait_ele_visible [ line:50 ] 登录页面-用户名输入模块:等待('id', 'username')元素可见.
+ Sat, 18 Jul 2020 10:26:14  INFO basepage.py wait_ele_visible [ line:62 ] 登录页面-用户名输入模块：等待元素可见成功！开始时间为2020-07-18 10:26:14.513701，结束时间为2020-07-18 10:26:14.545615,耗时0:00:00.031914
+ Sat, 18 Jul 2020 10:26:14  INFO basepage.py get_element_success [ line:97 ] 登录页面-用户名输入模块:开始查找元素('id', 'username')
+ Sat, 18 Jul 2020 10:26:14  INFO basepage.py get_element_success [ line:109 ] 登录页面-用户名输入模块：查找元素成功，开始时间为2020-07-18 10:26:14.546615，结束时间为2020-07-18 10:26:14.556588,耗时0:00:00.009973
+ Sat, 18 Jul 2020 10:26:14  INFO basepage.py input_element_value [ line:249 ] 登录页面-用户名输入#模块:('id', 'username')元素的输入框值为J3205823010050
+ Sat, 18 Jul 2020 10:26:14  INFO basepage.py input_element_value [ line:262 ] 登录页面-用户名输入模块：输入成功！开始时间为2020-07-18 10:26:14.558582，结束时间为2020-07-18 10:26:14.694217,耗时0:00:00.135635
+ Sat, 18 Jul 2020 10:26:14  INFO basepage.py wait_ele_visible [ line:50 ] 登录页面-密码输入模块:等待('id', 'pswd')元素可见.
+ Sat, 18 Jul 2020 10:26:14  INFO basepage.py wait_ele_visible [ line:62 ] 登录页面-密码输入模块：等待元素可见成功！开始时间为2020-07-18 10:26:14.694217，结束时间为2020-07-18 10:26:14.726133,耗时0:00:00.031916
+ Sat, 18 Jul 2020 10:26:14  INFO basepage.py get_element_success [ line:97 ] 登录页面-密码输入模块:开始查找元素('id', 'pswd')
+ Sat, 18 Jul 2020 10:26:14  INFO basepage.py get_element_success [ line:109 ] 登录页面-密码输入模块：查找元素成功，开始时间为2020-07-18 10:26:14.727171，结束时间为2020-07-18 10:26:14.735108,耗时0:00:00.007937
+ Sat, 18 Jul 2020 10:26:14  INFO basepage.py input_element_value [ line:249 ] 登录页面-密码输入#模块:('id', 'pswd')元素的输入框值为123123
+ Sat, 18 Jul 2020 10:26:14  INFO basepage.py input_element_value [ line:262 ] 登录页面-密码输入模块：输入成功！开始时间为2020-07-18 10:26:14.736147，结束时间为2020-07-18 10:26:14.785972,耗时0:00:00.049825
+ Sat, 18 Jul 2020 10:26:14  INFO test_jhxd_apply.py test_add_success_20 [ line:683 ] ******正常场景20：非按揭:按期还息到期还本-简化信贷的模板*****
+ Sat, 18 Jul 2020 10:26:14  INFO basepage.py wait_ele_visible [ line:50 ] 菜单-信贷业务模块:等待('xpath', '//span[text()="信贷业务"]')元素可见.
+ Sat, 18 Jul 2020 10:26:15  INFO basepage.py wait_ele_visible [ line:62 ] 菜单-信贷业务模块：等待元素可见成功！开始时间为2020-07-18 10:26:14.787006，结束时间为2020-07-18 10:26:15.723468,耗时0:00:00.936462
+ Sat, 18 Jul 2020 10:26:15  INFO basepage.py get_element_success [ line:97 ] 菜单-信贷业务模块:开始查找元素('xpath', '//span[text()="信贷业务"]')
+ Sat, 18 Jul 2020 10:26:15  INFO basepage.py get_element_success [ line:109 ] 菜单-信贷业务模块：查找元素成功，开始时间为2020-07-18 10:26:15.724503，结束时间为2020-07-18 10:26:15.735462,耗时0:00:00.010959
+ Sat, 18 Jul 2020 10:26:15  INFO basepage.py move_to_click [ line:197 ] 菜单-信贷业务模块：对元素('xpath', '//span[text()="信贷业务"]')进行点击操作begin......
+ Sat, 18 Jul 2020 10:26:16  INFO basepage.py move_to_click [ line:208 ] 菜单-信贷业务模块：鼠标移动到元素并点击成功，开始时间为2020-07-18 10:26:15.735462，结束时间为2020-07-18 10:26:16.768669,耗时0:00:01.033207
+ Sat, 18 Jul 2020 10:26:16  INFO basepage.py wait_ele_visible [ line:50 ] 菜单-业务申请办理模块:等待('xpath', '//a[text()="业务申请办理"]')元素可见.
+ Sat, 18 Jul 2020 10:26:16  INFO basepage.py wait_ele_visible [ line:62 ] 菜单-业务申请办理模块：等待元素可见成功！开始时间为2020-07-18 10:26:16.769706，结束时间为2020-07-18 10:26:16.795597,耗时0:00:00.025891
+ Sat, 18 Jul 2020 10:26:16  INFO basepage.py get_element_success [ line:97 ] 菜单-业务申请办理模块:开始查找元素('xpath', '//a[text()="业务申请办理"]')
+ Sat, 18 Jul 2020 10:26:16  INFO basepage.py get_element_success [ line:109 ] 菜单-业务申请办理模块：查找元素成功，开始时间为2020-07-18 10:26:16.796640，结束时间为2020-07-18 10:26:16.806571,耗时0:00:00.009931
+ Sat, 18 Jul 2020 10:26:16  INFO basepage.py click_ele_success [ line:222 ] 菜单-业务申请办理模块:对元素('xpath', '//a[text()="业务申请办理"]')进行点击操作begin......
+ Sat, 18 Jul 2020 10:26:16  INFO basepage.py click_ele_success [ line:233 ] 菜单-业务申请办理模块-元素('xpath', '//a[text()="业务申请办理"]')点击:开始时间为2020-07-18 10:26:16.807566，结束时间为2020-07-18 10:26:16.866407,耗时0:00:00.058841
+ Sat, 18 Jul 2020 10:26:17  INFO basepage.py wait_ele_visible [ line:50 ] 业务申请办理-新增业务按钮模块:等待('xpath', "//button[text()='新增业务']")元素可见.
