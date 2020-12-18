@@ -1,0 +1,205 @@
+{
+  "uid" : "4ef2379e7293a6c6",
+  "name" : "test_add_success_16",
+  "fullName" : "TestCases.test_jhxd_apply.TestEnterMain#test_add_success_16",
+  "historyId" : "8913fb92b768e67ad8b5a4cc55113a52",
+  "time" : {
+    "start" : 1592291544333,
+    "stop" : 1592291604855,
+    "duration" : 60522
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1592291409489,
+      "stop" : 1592291409489,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1592291409381,
+      "stop" : 1592291409489,
+      "duration" : 108
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9e97eea59bb082c3",
+      "name" : "log",
+      "source" : "9e97eea59bb082c3.txt",
+      "type" : "text/plain",
+      "size" : 101268
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1592291663975,
+      "stop" : 1592291663975,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_jhxd_apply"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEnterMain"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JS3Q151"
+  }, {
+    "name" : "thread",
+    "value" : "24116-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_jhxd_apply"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9c93090991a39cf",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1592270987740,
+        "stop" : 1592271015483,
+        "duration" : 27743
+      }
+    }, {
+      "uid" : "5a81fdb8c54d33c0",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1592270954002,
+        "stop" : 1592270982706,
+        "duration" : 28704
+      }
+    }, {
+      "uid" : "2e844c79ba846f1a",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1592270908876,
+        "stop" : 1592270948971,
+        "duration" : 40095
+      }
+    }, {
+      "uid" : "bbfa364fe5f43ac7",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=78.0.3904.70)",
+      "time" : {
+        "start" : 1592214831022,
+        "stop" : 1592214835343,
+        "duration" : 4321
+      }
+    }, {
+      "uid" : "390952d08723f358",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1592214795953,
+        "stop" : 1592214825990,
+        "duration" : 30037
+      }
+    }, {
+      "uid" : "5f24ffee6dcb9631",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1592214761971,
+        "stop" : 1592214790893,
+        "duration" : 28922
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 2,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "99abeb9f8f8cd3ef",
+        "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/10/allure/#testresult/99abeb9f8f8cd3ef",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+        "time" : {
+          "start" : 1592270987740,
+          "stop" : 1592271015483,
+          "duration" : 27743
+        }
+      }, {
+        "uid" : "d79f2e7c1467752a",
+        "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/9/allure/#testresult/d79f2e7c1467752a",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+        "time" : {
+          "start" : 1592270987740,
+          "stop" : 1592271015483,
+          "duration" : 27743
+        }
+      } ]
+    },
+    "tags" : [ "smoke" ]
+  },
+  "source" : "4ef2379e7293a6c6.json",
+  "parameterValues" : [ ]
+}

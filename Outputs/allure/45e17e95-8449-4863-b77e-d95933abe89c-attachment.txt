@@ -1,0 +1,471 @@
+INFO     root:basepage.py:50 登录页面-用户名输入模块:等待('id', 'username')元素可见.
+INFO     root:basepage.py:62 登录页面-用户名输入模块：等待元素可见成功！开始时间为2020-06-16 09:28:33.652989，结束时间为2020-06-16 09:28:33.681911,耗时0:00:00.028922
+INFO     root:basepage.py:97 登录页面-用户名输入模块:开始查找元素('id', 'username')
+INFO     root:basepage.py:109 登录页面-用户名输入模块：查找元素成功，开始时间为2020-06-16 09:28:33.681911，结束时间为2020-06-16 09:28:33.690888,耗时0:00:00.008977
+INFO     root:basepage.py:249 登录页面-用户名输入#模块:('id', 'username')元素的输入框值为J3205823010050
+INFO     root:basepage.py:262 登录页面-用户名输入模块：输入成功！开始时间为2020-06-16 09:28:33.690888，结束时间为2020-06-16 09:28:33.855449,耗时0:00:00.164561
+INFO     root:basepage.py:50 登录页面-密码输入模块:等待('id', 'pswd')元素可见.
+INFO     root:basepage.py:62 登录页面-密码输入模块：等待元素可见成功！开始时间为2020-06-16 09:28:33.856446，结束时间为2020-06-16 09:28:33.884372,耗时0:00:00.027926
+INFO     root:basepage.py:97 登录页面-密码输入模块:开始查找元素('id', 'pswd')
+INFO     root:basepage.py:109 登录页面-密码输入模块：查找元素成功，开始时间为2020-06-16 09:28:33.884372，结束时间为2020-06-16 09:28:33.892349,耗时0:00:00.007977
+INFO     root:basepage.py:249 登录页面-密码输入#模块:('id', 'pswd')元素的输入框值为123123
+INFO     root:basepage.py:262 登录页面-密码输入模块：输入成功！开始时间为2020-06-16 09:28:33.892349，结束时间为2020-06-16 09:28:33.946206,耗时0:00:00.053857
+INFO     root:test_jhxd_apply.py:537 ******正常场景16：非按揭:利随本清-简化信贷的模板*****
+INFO     root:basepage.py:50 菜单-信贷业务模块:等待('xpath', '//span[text()="信贷业务"]')元素可见.
+INFO     root:basepage.py:62 菜单-信贷业务模块：等待元素可见成功！开始时间为2020-06-16 09:28:33.947203，结束时间为2020-06-16 09:28:35.468135,耗时0:00:01.520932
+INFO     root:basepage.py:97 菜单-信贷业务模块:开始查找元素('xpath', '//span[text()="信贷业务"]')
+INFO     root:basepage.py:109 菜单-信贷业务模块：查找元素成功，开始时间为2020-06-16 09:28:35.468135，结束时间为2020-06-16 09:28:35.477116,耗时0:00:00.008981
+INFO     root:basepage.py:197 菜单-信贷业务模块：对元素('xpath', '//span[text()="信贷业务"]')进行点击操作begin......
+INFO     root:basepage.py:208 菜单-信贷业务模块：鼠标移动到元素并点击成功，开始时间为2020-06-16 09:28:35.478107，结束时间为2020-06-16 09:28:36.495387,耗时0:00:01.017280
+INFO     root:basepage.py:50 菜单-业务申请办理模块:等待('xpath', '//a[text()="业务申请办理"]')元素可见.
+INFO     root:basepage.py:62 菜单-业务申请办理模块：等待元素可见成功！开始时间为2020-06-16 09:28:36.495387，结束时间为2020-06-16 09:28:36.518325,耗时0:00:00.022938
+INFO     root:basepage.py:97 菜单-业务申请办理模块:开始查找元素('xpath', '//a[text()="业务申请办理"]')
+INFO     root:basepage.py:109 菜单-业务申请办理模块：查找元素成功，开始时间为2020-06-16 09:28:36.518325，结束时间为2020-06-16 09:28:36.527301,耗时0:00:00.008976
+INFO     root:basepage.py:222 菜单-业务申请办理模块:对元素('xpath', '//a[text()="业务申请办理"]')进行点击操作begin......
+INFO     root:basepage.py:233 菜单-业务申请办理模块-元素('xpath', '//a[text()="业务申请办理"]')点击:开始时间为2020-06-16 09:28:36.527301，结束时间为2020-06-16 09:28:36.607088,耗时0:00:00.079787
+INFO     root:basepage.py:50 业务申请办理-新增业务按钮模块:等待('xpath', "//button[text()='新增业务']")元素可见.
+INFO     root:basepage.py:62 业务申请办理-新增业务按钮模块：等待元素可见成功！开始时间为2020-06-16 09:28:37.644313，结束时间为2020-06-16 09:28:37.667253,耗时0:00:00.022940
+INFO     root:basepage.py:97 业务申请办理-新增业务按钮模块:开始查找元素('xpath', "//button[text()='新增业务']")
+INFO     root:basepage.py:109 业务申请办理-新增业务按钮模块：查找元素成功，开始时间为2020-06-16 09:28:37.668249，结束时间为2020-06-16 09:28:37.675231,耗时0:00:00.006982
+INFO     root:basepage.py:222 业务申请办理-新增业务按钮模块:对元素('xpath', "//button[text()='新增业务']")进行点击操作begin......
+INFO     root:basepage.py:233 业务申请办理-新增业务按钮模块-元素('xpath', "//button[text()='新增业务']")点击:开始时间为2020-06-16 09:28:37.675231，结束时间为2020-06-16 09:28:37.778956,耗时0:00:00.103725
+INFO     root:basepage.py:50 BuildCustMgrPnl-输入客户名称模块:等待('id', 'custName.BuildCustMgrPnl')元素可见.
+INFO     root:basepage.py:62 BuildCustMgrPnl-输入客户名称模块：等待元素可见成功！开始时间为2020-06-16 09:28:37.779952，结束时间为2020-06-16 09:28:41.389297,耗时0:00:03.609345
+INFO     root:basepage.py:97 BuildCustMgrPnl-输入客户名称模块:开始查找元素('id', 'custName.BuildCustMgrPnl')
+INFO     root:basepage.py:109 BuildCustMgrPnl-输入客户名称模块：查找元素成功，开始时间为2020-06-16 09:28:41.389297，结束时间为2020-06-16 09:28:41.395281,耗时0:00:00.005984
+INFO     root:basepage.py:249 BuildCustMgrPnl-输入客户名称#模块:('id', 'custName.BuildCustMgrPnl')元素的输入框值为A个人客户名称2020-06-16 09:26:19
+INFO     root:basepage.py:262 BuildCustMgrPnl-输入客户名称模块：输入成功！开始时间为2020-06-16 09:28:41.396278，结束时间为2020-06-16 09:28:41.733377,耗时0:00:00.337099
+INFO     root:basepage.py:50 BuildCustMgrPnl-查询按钮模块:等待('id', 'query.BuildCustMgrPnl')元素可见.
+INFO     root:basepage.py:62 BuildCustMgrPnl-查询按钮模块：等待元素可见成功！开始时间为2020-06-16 09:28:41.734373，结束时间为2020-06-16 09:28:41.759307,耗时0:00:00.024934
+INFO     root:basepage.py:97 BuildCustMgrPnl-查询按钮模块:开始查找元素('id', 'query.BuildCustMgrPnl')
+INFO     root:basepage.py:109 BuildCustMgrPnl-查询按钮模块：查找元素成功，开始时间为2020-06-16 09:28:41.759307，结束时间为2020-06-16 09:28:41.766289,耗时0:00:00.006982
+INFO     root:basepage.py:222 BuildCustMgrPnl-查询按钮模块:对元素('id', 'query.BuildCustMgrPnl')进行点击操作begin......
+INFO     root:basepage.py:233 BuildCustMgrPnl-查询按钮模块-元素('id', 'query.BuildCustMgrPnl')点击:开始时间为2020-06-16 09:28:41.766289，结束时间为2020-06-16 09:28:41.863031,耗时0:00:00.096742
+INFO     root:basepage.py:50 BuildCustMgrPnl-新客户按钮模块:等待('id', 'add.BuildCustMgrPnl')元素可见.
+INFO     root:basepage.py:62 BuildCustMgrPnl-新客户按钮模块：等待元素可见成功！开始时间为2020-06-16 09:28:42.864353，结束时间为2020-06-16 09:28:42.890283,耗时0:00:00.025930
+INFO     root:basepage.py:97 BuildCustMgrPnl-新客户按钮模块:开始查找元素('id', 'add.BuildCustMgrPnl')
+INFO     root:basepage.py:109 BuildCustMgrPnl-新客户按钮模块：查找元素成功，开始时间为2020-06-16 09:28:42.891280，结束时间为2020-06-16 09:28:42.898261,耗时0:00:00.006981
+INFO     root:basepage.py:222 BuildCustMgrPnl-新客户按钮模块:对元素('id', 'add.BuildCustMgrPnl')进行点击操作begin......
+INFO     root:basepage.py:233 BuildCustMgrPnl-新客户按钮模块-元素('id', 'add.BuildCustMgrPnl')点击:开始时间为2020-06-16 09:28:42.898261，结束时间为2020-06-16 09:28:43.041878,耗时0:00:00.143617
+INFO     root:basepage.py:50 RegisterCustInfoWin-输入客户名称模块:等待('id', 'custName.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-输入客户名称模块：等待元素可见成功！开始时间为2020-06-16 09:28:43.041878，结束时间为2020-06-16 09:28:43.073792,耗时0:00:00.031914
+INFO     root:basepage.py:97 RegisterCustInfoWin-输入客户名称模块:开始查找元素('id', 'custName.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-输入客户名称模块：查找元素成功，开始时间为2020-06-16 09:28:43.074789，结束时间为2020-06-16 09:28:43.081770,耗时0:00:00.006981
+INFO     root:basepage.py:249 RegisterCustInfoWin-输入客户名称#模块:('id', 'custName.RegisterCustInfoWin')元素的输入框值为A个人客户名称2020-06-16 09:26:19
+INFO     root:basepage.py:262 RegisterCustInfoWin-输入客户名称模块：输入成功！开始时间为2020-06-16 09:28:43.081770，结束时间为2020-06-16 09:28:43.279244,耗时0:00:00.197474
+INFO     root:basepage.py:50 RegisterCustInfoWin-输入身份证号码模块:等待('id', 'paperNo.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-输入身份证号码模块：等待元素可见成功！开始时间为2020-06-16 09:28:43.280239，结束时间为2020-06-16 09:28:43.303178,耗时0:00:00.022939
+INFO     root:basepage.py:97 RegisterCustInfoWin-输入身份证号码模块:开始查找元素('id', 'paperNo.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-输入身份证号码模块：查找元素成功，开始时间为2020-06-16 09:28:43.304176，结束时间为2020-06-16 09:28:43.310160,耗时0:00:00.005984
+INFO     root:basepage.py:249 RegisterCustInfoWin-输入身份证号码#模块:('id', 'paperNo.RegisterCustInfoWin')元素的输入框值为530103199907024772
+INFO     root:basepage.py:262 RegisterCustInfoWin-输入身份证号码模块：输入成功！开始时间为2020-06-16 09:28:43.311159，结束时间为2020-06-16 09:28:43.480703,耗时0:00:00.169544
+INFO     root:basepage.py:50 RegisterCustInfoWin-输入手机证号码模块:等待('id', 'phoneNo.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-输入手机证号码模块：等待元素可见成功！开始时间为2020-06-16 09:28:43.480703，结束时间为2020-06-16 09:28:43.500652,耗时0:00:00.019949
+INFO     root:basepage.py:97 RegisterCustInfoWin-输入手机证号码模块:开始查找元素('id', 'phoneNo.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-输入手机证号码模块：查找元素成功，开始时间为2020-06-16 09:28:43.501688，结束时间为2020-06-16 09:28:43.508628,耗时0:00:00.006940
+INFO     root:basepage.py:249 RegisterCustInfoWin-输入手机证号码#模块:('id', 'phoneNo.RegisterCustInfoWin')元素的输入框值为13351674838
+INFO     root:basepage.py:262 RegisterCustInfoWin-输入手机证号码模块：输入成功！开始时间为2020-06-16 09:28:43.508628，结束时间为2020-06-16 09:28:43.603375,耗时0:00:00.094747
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择客户来源模块:等待('id', 'typeSource.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择客户来源模块：等待元素可见成功！开始时间为2020-06-16 09:28:43.604372，结束时间为2020-06-16 09:28:43.626315,耗时0:00:00.021943
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择客户来源模块:开始查找元素('id', 'typeSource.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择客户来源模块：查找元素成功，开始时间为2020-06-16 09:28:43.627312，结束时间为2020-06-16 09:28:43.634292,耗时0:00:00.006980
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择客户来源模块:对元素('id', 'typeSource.RegisterCustInfoWin')进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择客户来源模块-元素('id', 'typeSource.RegisterCustInfoWin')点击:开始时间为2020-06-16 09:28:43.634292，结束时间为2020-06-16 09:28:43.721060,耗时0:00:00.086768
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择第三方模块:等待('xpath', "//div[@class='x-combo-list-inner']/div[3]")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择第三方模块：等待元素可见成功！开始时间为2020-06-16 09:28:43.721060，结束时间为2020-06-16 09:28:44.254633,耗时0:00:00.533573
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择第三方模块:开始查找元素('xpath', "//div[@class='x-combo-list-inner']/div[3]")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择第三方模块：查找元素成功，开始时间为2020-06-16 09:28:44.254633，结束时间为2020-06-16 09:28:44.263609,耗时0:00:00.008976
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择第三方模块:对元素('xpath', "//div[@class='x-combo-list-inner']/div[3]")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择第三方模块-元素('xpath', "//div[@class='x-combo-list-inner']/div[3]")点击:开始时间为2020-06-16 09:28:44.264606，结束时间为2020-06-16 09:28:44.338409,耗时0:00:00.073803
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择客户来源名称模块:等待('id', 'cdeSource.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择客户来源名称模块：等待元素可见成功！开始时间为2020-06-16 09:28:44.338409，结束时间为2020-06-16 09:28:44.363342,耗时0:00:00.024933
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择客户来源名称模块:开始查找元素('id', 'cdeSource.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择客户来源名称模块：查找元素成功，开始时间为2020-06-16 09:28:44.363342，结束时间为2020-06-16 09:28:44.370324,耗时0:00:00.006982
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择客户来源名称模块:对元素('id', 'cdeSource.RegisterCustInfoWin')进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择客户来源名称模块-元素('id', 'cdeSource.RegisterCustInfoWin')点击:开始时间为2020-06-16 09:28:44.370324，结束时间为2020-06-16 09:28:44.459087,耗时0:00:00.088763
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择客户来源名称第一个模块:等待('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择客户来源名称第一个模块：等待元素可见成功！开始时间为2020-06-16 09:28:44.459087，结束时间为2020-06-16 09:28:44.997648,耗时0:00:00.538561
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择客户来源名称第一个模块:开始查找元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择客户来源名称第一个模块：查找元素成功，开始时间为2020-06-16 09:28:44.998644，结束时间为2020-06-16 09:28:45.007620,耗时0:00:00.008976
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择客户来源名称第一个模块:对元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择客户来源名称第一个模块-元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")点击:开始时间为2020-06-16 09:28:45.008616，结束时间为2020-06-16 09:28:45.074441,耗时0:00:00.065825
+INFO     root:basepage.py:50 RegisterCustInfoWin-用户注册模块:等待('id', 'btnRegister.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-用户注册模块：等待元素可见成功！开始时间为2020-06-16 09:28:45.074441，结束时间为2020-06-16 09:28:45.097382,耗时0:00:00.022941
+INFO     root:basepage.py:97 RegisterCustInfoWin-用户注册模块:开始查找元素('id', 'btnRegister.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-用户注册模块：查找元素成功，开始时间为2020-06-16 09:28:45.098378，结束时间为2020-06-16 09:28:45.106355,耗时0:00:00.007977
+INFO     root:basepage.py:222 RegisterCustInfoWin-用户注册模块:对元素('id', 'btnRegister.RegisterCustInfoWin')进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-用户注册模块-元素('id', 'btnRegister.RegisterCustInfoWin')点击:开始时间为2020-06-16 09:28:45.106355，结束时间为2020-06-16 09:28:45.177166,耗时0:00:00.070811
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择是模块:等待('xpath', "//button[text()='是']")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择是模块：等待元素可见成功！开始时间为2020-06-16 09:28:45.177166，结束时间为2020-06-16 09:28:45.743650,耗时0:00:00.566484
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择是模块:开始查找元素('xpath', "//button[text()='是']")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择是模块：查找元素成功，开始时间为2020-06-16 09:28:45.743650，结束时间为2020-06-16 09:28:45.751629,耗时0:00:00.007979
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择是模块:对元素('xpath', "//button[text()='是']")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择是模块-元素('xpath', "//button[text()='是']")点击:开始时间为2020-06-16 09:28:45.752626，结束时间为2020-06-16 09:28:45.824435,耗时0:00:00.071809
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择确定模块:等待('xpath', "//button[text()='确定']")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择确定模块：等待元素可见成功！开始时间为2020-06-16 09:28:45.824435，结束时间为2020-06-16 09:28:46.384935,耗时0:00:00.560500
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择确定模块:开始查找元素('xpath', "//button[text()='确定']")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择确定模块：查找元素成功，开始时间为2020-06-16 09:28:46.384935，结束时间为2020-06-16 09:28:46.394909,耗时0:00:00.009974
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择确定模块:对元素('xpath', "//button[text()='确定']")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择确定模块-元素('xpath', "//button[text()='确定']")点击:开始时间为2020-06-16 09:28:46.394909，结束时间为2020-06-16 09:28:46.468711,耗时0:00:00.073802
+INFO     root:basepage.py:50 点击新增贷款-进入选择产品和贷款页面模块:等待('id', 'addLoan.OperateWin')元素可见.
+INFO     root:basepage.py:62 点击新增贷款-进入选择产品和贷款页面模块：等待元素可见成功！开始时间为2020-06-16 09:28:47.469345，结束时间为2020-06-16 09:28:47.492973,耗时0:00:00.023628
+INFO     root:basepage.py:97 点击新增贷款-进入选择产品和贷款页面模块:开始查找元素('id', 'addLoan.OperateWin')
+INFO     root:basepage.py:109 点击新增贷款-进入选择产品和贷款页面模块：查找元素成功，开始时间为2020-06-16 09:28:47.492973，结束时间为2020-06-16 09:28:47.499953,耗时0:00:00.006980
+INFO     root:basepage.py:222 点击新增贷款-进入选择产品和贷款页面模块:对元素('id', 'addLoan.OperateWin')进行点击操作begin......
+INFO     root:basepage.py:233 点击新增贷款-进入选择产品和贷款页面模块-元素('id', 'addLoan.OperateWin')点击:开始时间为2020-06-16 09:28:47.499953，结束时间为2020-06-16 09:28:47.580738,耗时0:00:00.080785
+INFO     root:basepage.py:50 选择客户页面-产品类型模块:等待('id', 'prodNo.ChooseProductWin')元素可见.
+INFO     root:basepage.py:62 选择客户页面-产品类型模块：等待元素可见成功！开始时间为2020-06-16 09:28:47.580738，结束时间为2020-06-16 09:28:48.120294,耗时0:00:00.539556
+INFO     root:basepage.py:97 选择客户页面-产品类型模块:开始查找元素('id', 'prodNo.ChooseProductWin')
+INFO     root:basepage.py:109 选择客户页面-产品类型模块：查找元素成功，开始时间为2020-06-16 09:28:48.120294，结束时间为2020-06-16 09:28:48.127276,耗时0:00:00.006982
+INFO     root:basepage.py:222 选择客户页面-产品类型模块:对元素('id', 'prodNo.ChooseProductWin')进行点击操作begin......
+INFO     root:basepage.py:233 选择客户页面-产品类型模块-元素('id', 'prodNo.ChooseProductWin')点击:开始时间为2020-06-16 09:28:48.128272，结束时间为2020-06-16 09:28:48.208060,耗时0:00:00.079788
+INFO     root:basepage.py:50 选择产品页面-简化信贷产品模板模块:等待('xpath', "//div[text()='简化信贷1218-yi']")元素可见.
+INFO     root:basepage.py:62 选择产品页面-简化信贷产品模板模块：等待元素可见成功！开始时间为2020-06-16 09:28:48.209057，结束时间为2020-06-16 09:28:48.742630,耗时0:00:00.533573
+INFO     root:basepage.py:97 选择产品页面-简化信贷产品模板模块:开始查找元素('xpath', "//div[text()='简化信贷1218-yi']")
+INFO     root:basepage.py:109 选择产品页面-简化信贷产品模板模块：查找元素成功，开始时间为2020-06-16 09:28:48.742630，结束时间为2020-06-16 09:28:48.750609,耗时0:00:00.007979
+INFO     root:basepage.py:222 选择产品页面-简化信贷产品模板模块:对元素('xpath', "//div[text()='简化信贷1218-yi']")进行点击操作begin......
+INFO     root:basepage.py:233 选择产品页面-简化信贷产品模板模块-元素('xpath', "//div[text()='简化信贷1218-yi']")点击:开始时间为2020-06-16 09:28:48.750609，结束时间为2020-06-16 09:28:48.817429,耗时0:00:00.066820
+INFO     root:basepage.py:50 选择产品页面-点击确定按钮模块:等待('id', 'btOk.SetPayDate')元素可见.
+INFO     root:basepage.py:62 选择产品页面-点击确定按钮模块：等待元素可见成功！开始时间为2020-06-16 09:28:48.817429，结束时间为2020-06-16 09:28:48.843361,耗时0:00:00.025932
+INFO     root:basepage.py:97 选择产品页面-点击确定按钮模块:开始查找元素('id', 'btOk.SetPayDate')
+INFO     root:basepage.py:109 选择产品页面-点击确定按钮模块：查找元素成功，开始时间为2020-06-16 09:28:48.843361，结束时间为2020-06-16 09:28:48.851338,耗时0:00:00.007977
+INFO     root:basepage.py:222 选择产品页面-点击确定按钮模块:对元素('id', 'btOk.SetPayDate')进行点击操作begin......
+INFO     root:basepage.py:233 选择产品页面-点击确定按钮模块-元素('id', 'btOk.SetPayDate')点击:开始时间为2020-06-16 09:28:48.851338，结束时间为2020-06-16 09:28:48.926139,耗时0:00:00.074801
+INFO     root:basepage.py:50 贷款申请的详情页面-输入贷款金额模块:等待('id', 'applAmt.LoanApplyDetailPanel')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-输入贷款金额模块：等待元素可见成功！开始时间为2020-06-16 09:28:49.927461，结束时间为2020-06-16 09:28:49.951400,耗时0:00:00.023939
+INFO     root:basepage.py:97 贷款申请的详情页面-输入贷款金额模块:开始查找元素('id', 'applAmt.LoanApplyDetailPanel')
+INFO     root:basepage.py:109 贷款申请的详情页面-输入贷款金额模块：查找元素成功，开始时间为2020-06-16 09:28:49.951400，结束时间为2020-06-16 09:28:49.958378,耗时0:00:00.006978
+INFO     root:basepage.py:249 贷款申请的详情页面-输入贷款金额#模块:('id', 'applAmt.LoanApplyDetailPanel')元素的输入框值为1234
+INFO     root:basepage.py:262 贷款申请的详情页面-输入贷款金额模块：输入成功！开始时间为2020-06-16 09:28:49.959375，结束时间为2020-06-16 09:28:50.050133,耗时0:00:00.090758
+INFO     root:basepage.py:50 贷款申请的详情页面-输入贷款期限模块:等待('id', 'applPerd.LoanApplyDetailPanel')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-输入贷款期限模块：等待元素可见成功！开始时间为2020-06-16 09:28:50.050133，结束时间为2020-06-16 09:28:50.075066,耗时0:00:00.024933
+INFO     root:basepage.py:97 贷款申请的详情页面-输入贷款期限模块:开始查找元素('id', 'applPerd.LoanApplyDetailPanel')
+INFO     root:basepage.py:109 贷款申请的详情页面-输入贷款期限模块：查找元素成功，开始时间为2020-06-16 09:28:50.076065，结束时间为2020-06-16 09:28:50.082047,耗时0:00:00.005982
+INFO     root:basepage.py:249 贷款申请的详情页面-输入贷款期限#模块:('id', 'applPerd.LoanApplyDetailPanel')元素的输入框值为6
+INFO     root:basepage.py:262 贷款申请的详情页面-输入贷款期限模块：输入成功！开始时间为2020-06-16 09:28:50.082047，结束时间为2020-06-16 09:28:50.133908,耗时0:00:00.051861
+INFO     root:basepage.py:50 贷款申请的详情页面-触发担保方式输入框模块:等待('id', 'mainGurTyp.LoanApplyDetailPanel')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-触发担保方式输入框模块：等待元素可见成功！开始时间为2020-06-16 09:28:50.133908，结束时间为2020-06-16 09:28:50.157844,耗时0:00:00.023936
+INFO     root:basepage.py:97 贷款申请的详情页面-触发担保方式输入框模块:开始查找元素('id', 'mainGurTyp.LoanApplyDetailPanel')
+INFO     root:basepage.py:109 贷款申请的详情页面-触发担保方式输入框模块：查找元素成功，开始时间为2020-06-16 09:28:50.157844，结束时间为2020-06-16 09:28:50.165823,耗时0:00:00.007979
+INFO     root:basepage.py:222 贷款申请的详情页面-触发担保方式输入框模块:对元素('id', 'mainGurTyp.LoanApplyDetailPanel')进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-触发担保方式输入框模块-元素('id', 'mainGurTyp.LoanApplyDetailPanel')点击:开始时间为2020-06-16 09:28:50.165823，结束时间为2020-06-16 09:28:50.253588,耗时0:00:00.087765
+INFO     root:basepage.py:50 贷款申请的详情页面-选择担保方式第一条模块:等待('xpath', "//div[@class='x-layer x-combo-list '][1]//div[2]")元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-选择担保方式第一条模块：等待元素可见成功！开始时间为2020-06-16 09:28:50.254587，结束时间为2020-06-16 09:28:50.787161,耗时0:00:00.532574
+INFO     root:basepage.py:97 贷款申请的详情页面-选择担保方式第一条模块:开始查找元素('xpath', "//div[@class='x-layer x-combo-list '][1]//div[2]")
+INFO     root:basepage.py:109 贷款申请的详情页面-选择担保方式第一条模块：查找元素成功，开始时间为2020-06-16 09:28:50.787161，结束时间为2020-06-16 09:28:50.795139,耗时0:00:00.007978
+INFO     root:basepage.py:222 贷款申请的详情页面-选择担保方式第一条模块:对元素('xpath', "//div[@class='x-layer x-combo-list '][1]//div[2]")进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-选择担保方式第一条模块-元素('xpath', "//div[@class='x-layer x-combo-list '][1]//div[2]")点击:开始时间为2020-06-16 09:28:50.795139，结束时间为2020-06-16 09:28:50.863956,耗时0:00:00.068817
+INFO     root:basepage.py:50 贷款申请的详情页面-触发借款事由的输入框模块:等待('id', 'loanUse.LoanApplyDetailPanel')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-触发借款事由的输入框模块：等待元素可见成功！开始时间为2020-06-16 09:28:50.863956，结束时间为2020-06-16 09:28:50.887892,耗时0:00:00.023936
+INFO     root:basepage.py:97 贷款申请的详情页面-触发借款事由的输入框模块:开始查找元素('id', 'loanUse.LoanApplyDetailPanel')
+INFO     root:basepage.py:109 贷款申请的详情页面-触发借款事由的输入框模块：查找元素成功，开始时间为2020-06-16 09:28:50.887892，结束时间为2020-06-16 09:28:50.894873,耗时0:00:00.006981
+INFO     root:basepage.py:222 贷款申请的详情页面-触发借款事由的输入框模块:对元素('id', 'loanUse.LoanApplyDetailPanel')进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-触发借款事由的输入框模块-元素('id', 'loanUse.LoanApplyDetailPanel')点击:开始时间为2020-06-16 09:28:50.894873，结束时间为2020-06-16 09:28:50.972664,耗时0:00:00.077791
+INFO     root:basepage.py:50 贷款申请的详情页面-选择借款事由的第一条模块:等待('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-选择借款事由的第一条模块：等待元素可见成功！开始时间为2020-06-16 09:28:50.973663，结束时间为2020-06-16 09:28:51.503246,耗时0:00:00.529583
+INFO     root:basepage.py:97 贷款申请的详情页面-选择借款事由的第一条模块:开始查找元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")
+INFO     root:basepage.py:109 贷款申请的详情页面-选择借款事由的第一条模块：查找元素成功，开始时间为2020-06-16 09:28:51.503246，结束时间为2020-06-16 09:28:51.512221,耗时0:00:00.008975
+INFO     root:basepage.py:222 贷款申请的详情页面-选择借款事由的第一条模块:对元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-选择借款事由的第一条模块-元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")点击:开始时间为2020-06-16 09:28:51.512221，结束时间为2020-06-16 09:28:51.579044,耗时0:00:00.066823
+INFO     root:basepage.py:50 贷款申请的详情页面-触发贷款来源类型的输入框模块:等待('id', 'typeSource.LoanApplyDetailPanel')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-触发贷款来源类型的输入框模块：等待元素可见成功！开始时间为2020-06-16 09:28:51.579044，结束时间为2020-06-16 09:28:51.604974,耗时0:00:00.025930
+INFO     root:basepage.py:97 贷款申请的详情页面-触发贷款来源类型的输入框模块:开始查找元素('id', 'typeSource.LoanApplyDetailPanel')
+INFO     root:basepage.py:109 贷款申请的详情页面-触发贷款来源类型的输入框模块：查找元素成功，开始时间为2020-06-16 09:28:51.605971，结束时间为2020-06-16 09:28:51.612952,耗时0:00:00.006981
+INFO     root:basepage.py:222 贷款申请的详情页面-触发贷款来源类型的输入框模块:对元素('id', 'typeSource.LoanApplyDetailPanel')进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-触发贷款来源类型的输入框模块-元素('id', 'typeSource.LoanApplyDetailPanel')点击:开始时间为2020-06-16 09:28:51.612952，结束时间为2020-06-16 09:28:51.688749,耗时0:00:00.075797
+INFO     root:basepage.py:50 贷款申请的详情页面-选择贷款来源类型的第一条模块:等待('xpath', "//div[@class='x-layer x-combo-list '][3]//div[2]")元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-选择贷款来源类型的第一条模块：等待元素可见成功！开始时间为2020-06-16 09:28:51.688749，结束时间为2020-06-16 09:28:52.222322,耗时0:00:00.533573
+INFO     root:basepage.py:97 贷款申请的详情页面-选择贷款来源类型的第一条模块:开始查找元素('xpath', "//div[@class='x-layer x-combo-list '][3]//div[2]")
+INFO     root:basepage.py:109 贷款申请的详情页面-选择贷款来源类型的第一条模块：查找元素成功，开始时间为2020-06-16 09:28:52.223350，结束时间为2020-06-16 09:28:52.238279,耗时0:00:00.014929
+INFO     root:basepage.py:222 贷款申请的详情页面-选择贷款来源类型的第一条模块:对元素('xpath', "//div[@class='x-layer x-combo-list '][3]//div[2]")进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-选择贷款来源类型的第一条模块-元素('xpath', "//div[@class='x-layer x-combo-list '][3]//div[2]")点击:开始时间为2020-06-16 09:28:52.238279，结束时间为2020-06-16 09:28:52.314076,耗时0:00:00.075797
+INFO     root:basepage.py:50 贷款申请的详情页面-触发贷款来源名称型的输入框模块:等待('id', 'cdeSource.LoanApplyDetailPanel')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-触发贷款来源名称型的输入框模块：等待元素可见成功！开始时间为2020-06-16 09:28:52.314076，结束时间为2020-06-16 09:28:52.337016,耗时0:00:00.022940
+INFO     root:basepage.py:97 贷款申请的详情页面-触发贷款来源名称型的输入框模块:开始查找元素('id', 'cdeSource.LoanApplyDetailPanel')
+INFO     root:basepage.py:109 贷款申请的详情页面-触发贷款来源名称型的输入框模块：查找元素成功，开始时间为2020-06-16 09:28:52.338012，结束时间为2020-06-16 09:28:52.344994,耗时0:00:00.006982
+INFO     root:basepage.py:222 贷款申请的详情页面-触发贷款来源名称型的输入框模块:对元素('id', 'cdeSource.LoanApplyDetailPanel')进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-触发贷款来源名称型的输入框模块-元素('id', 'cdeSource.LoanApplyDetailPanel')点击:开始时间为2020-06-16 09:28:52.344994，结束时间为2020-06-16 09:28:52.425778,耗时0:00:00.080784
+INFO     root:basepage.py:50 贷款申请的详情页面-选择贷款来源名称的第一条模块:等待('xpath', "//div[@class='x-layer x-combo-list '][4]//div[2]")元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-选择贷款来源名称的第一条模块：等待元素可见成功！开始时间为2020-06-16 09:28:52.426776，结束时间为2020-06-16 09:28:52.961346,耗时0:00:00.534570
+INFO     root:basepage.py:97 贷款申请的详情页面-选择贷款来源名称的第一条模块:开始查找元素('xpath', "//div[@class='x-layer x-combo-list '][4]//div[2]")
+INFO     root:basepage.py:109 贷款申请的详情页面-选择贷款来源名称的第一条模块：查找元素成功，开始时间为2020-06-16 09:28:52.961346，结束时间为2020-06-16 09:28:52.969325,耗时0:00:00.007979
+INFO     root:basepage.py:222 贷款申请的详情页面-选择贷款来源名称的第一条模块:对元素('xpath', "//div[@class='x-layer x-combo-list '][4]//div[2]")进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-选择贷款来源名称的第一条模块-元素('xpath', "//div[@class='x-layer x-combo-list '][4]//div[2]")点击:开始时间为2020-06-16 09:28:52.969325，结束时间为2020-06-16 09:28:53.035149,耗时0:00:00.065824
+INFO     root:basepage.py:50 贷款申请的详情页面-贷款描述模块:等待('xpath', "//textarea[@name='applRemark']")元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-贷款描述模块：等待元素可见成功！开始时间为2020-06-16 09:28:53.035149，结束时间为2020-06-16 09:28:53.062078,耗时0:00:00.026929
+INFO     root:basepage.py:97 贷款申请的详情页面-贷款描述模块:开始查找元素('xpath', "//textarea[@name='applRemark']")
+INFO     root:basepage.py:109 贷款申请的详情页面-贷款描述模块：查找元素成功，开始时间为2020-06-16 09:28:53.062078，结束时间为2020-06-16 09:28:53.070055,耗时0:00:00.007977
+INFO     root:basepage.py:249 贷款申请的详情页面-贷款描述#模块:('xpath', "//textarea[@name='applRemark']")元素的输入框值为备注哈哈哈哈
+INFO     root:basepage.py:262 贷款申请的详情页面-贷款描述模块：输入成功！开始时间为2020-06-16 09:28:53.070055，结束时间为2020-06-16 09:28:53.165799,耗时0:00:00.095744
+INFO     root:basepage.py:50 贷款申请的详情页面-点击保存按钮模块:等待('id', 'btnSave')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-点击保存按钮模块：等待元素可见成功！开始时间为2020-06-16 09:28:53.165799，结束时间为2020-06-16 09:28:53.188738,耗时0:00:00.022939
+INFO     root:basepage.py:97 贷款申请的详情页面-点击保存按钮模块:开始查找元素('id', 'btnSave')
+INFO     root:basepage.py:109 贷款申请的详情页面-点击保存按钮模块：查找元素成功，开始时间为2020-06-16 09:28:53.188738，结束时间为2020-06-16 09:28:53.195719,耗时0:00:00.006981
+INFO     root:basepage.py:222 贷款申请的详情页面-点击保存按钮模块:对元素('id', 'btnSave')进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-点击保存按钮模块-元素('id', 'btnSave')点击:开始时间为2020-06-16 09:28:53.196716，结束时间为2020-06-16 09:28:53.286477,耗时0:00:00.089761
+INFO     root:basepage.py:73 贷款申请的详情页面-保存成功的提示框内容模块:等待('xpath', '//span[text()="保存成功"]')元素存在.
+INFO     root:basepage.py:85 贷款申请的详情页面-保存成功的提示框内容模块：等待存在成功！开始时间为2020-06-16 09:28:53.286477，结束时间为2020-06-16 09:28:53.872909,耗时0:00:00.586432
+INFO     root:basepage.py:97 贷款申请的详情页面-保存成功的提示框内容模块:开始查找元素('xpath', '//span[text()="保存成功"]')
+INFO     root:basepage.py:109 贷款申请的详情页面-保存成功的提示框内容模块：查找元素成功，开始时间为2020-06-16 09:28:53.872909，结束时间为2020-06-16 09:28:53.884876,耗时0:00:00.011967
+INFO     root:basepage.py:278 贷款申请的详情页面-保存成功的提示框内容模块:获取('xpath', '//span[text()="保存成功"]')元素的文本内容开始了......
+INFO     root:basepage.py:291 获取成功，开始时间为2020-06-16 09:28:53.884876，结束时间为2020-06-16 09:28:53.900833,耗时0:00:00.015957
+INFO     root:basepage.py:50 贷款申请的详情页面-点击确定按钮模块:等待('xpath', '//button[text()="确定"]')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-点击确定按钮模块：等待元素可见成功！开始时间为2020-06-16 09:28:54.901166，结束时间为2020-06-16 09:28:54.925094,耗时0:00:00.023928
+INFO     root:basepage.py:97 贷款申请的详情页面-点击确定按钮模块:开始查找元素('xpath', '//button[text()="确定"]')
+INFO     root:basepage.py:109 贷款申请的详情页面-点击确定按钮模块：查找元素成功，开始时间为2020-06-16 09:28:54.926091，结束时间为2020-06-16 09:28:54.934069,耗时0:00:00.007978
+INFO     root:basepage.py:222 贷款申请的详情页面-点击确定按钮模块:对元素('xpath', '//button[text()="确定"]')进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-点击确定按钮模块-元素('xpath', '//button[text()="确定"]')点击:开始时间为2020-06-16 09:28:54.934069，结束时间为2020-06-16 09:28:54.998896,耗时0:00:00.064827
+INFO     root:basepage.py:50 贷款申请的详情页面-点击提交按钮模块:等待('xpath', "//table[@id='btnSubmit']//button[text()='提交']")元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-点击提交按钮模块：等待元素可见成功！开始时间为2020-06-16 09:28:55.499557，结束时间为2020-06-16 09:28:55.787786,耗时0:00:00.288229
+INFO     root:basepage.py:97 贷款申请的详情页面-点击提交按钮模块:开始查找元素('xpath', "//table[@id='btnSubmit']//button[text()='提交']")
+INFO     root:basepage.py:109 贷款申请的详情页面-点击提交按钮模块：查找元素成功，开始时间为2020-06-16 09:28:55.788783，结束时间为2020-06-16 09:28:55.797759,耗时0:00:00.008976
+INFO     root:basepage.py:222 贷款申请的详情页面-点击提交按钮模块:对元素('xpath', "//table[@id='btnSubmit']//button[text()='提交']")进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-点击提交按钮模块-元素('xpath', "//table[@id='btnSubmit']//button[text()='提交']")点击:开始时间为2020-06-16 09:28:55.798756，结束时间为2020-06-16 09:28:55.898490,耗时0:00:00.099734
+INFO     root:basepage.py:50 贷款申请的详情页面-点击确定按钮以便进入下一个调查录入页面模块:等待('xpath', "//button[@class=' x-btn-text' and text()='确定']")元素可见.
+ERROR    root:basepage.py:56 此元素('xpath', "//button[@class=' x-btn-text' and text()='确定']")可能不可见，请确认下元素定位是否正确
+Traceback (most recent call last):
+  File "G:\2020_AUTO\2020xindai_pytest_web\Common\basepage.py", line 53, in wait_ele_visible
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO     root:basepage.py:45 当前图片保存在路径为G:\2020_AUTO\2020xindai_pytest_web\Outputs/screenshots/贷款申请的详情页面-点击确定按钮以便进入下一个调查录入页面_2020-06-16 09_29_06.png
+INFO     root:basepage.py:50 登录页面-用户名输入模块:等待('id', 'username')元素可见.
+INFO     root:basepage.py:62 登录页面-用户名输入模块：等待元素可见成功！开始时间为2020-06-16 09:29:18.791261，结束时间为2020-06-16 09:29:18.819186,耗时0:00:00.027925
+INFO     root:basepage.py:97 登录页面-用户名输入模块:开始查找元素('id', 'username')
+INFO     root:basepage.py:109 登录页面-用户名输入模块：查找元素成功，开始时间为2020-06-16 09:29:18.820183，结束时间为2020-06-16 09:29:18.829158,耗时0:00:00.008975
+INFO     root:basepage.py:249 登录页面-用户名输入#模块:('id', 'username')元素的输入框值为J3205823010050
+INFO     root:basepage.py:262 登录页面-用户名输入模块：输入成功！开始时间为2020-06-16 09:29:18.829158，结束时间为2020-06-16 09:29:18.991724,耗时0:00:00.162566
+INFO     root:basepage.py:50 登录页面-密码输入模块:等待('id', 'pswd')元素可见.
+INFO     root:basepage.py:62 登录页面-密码输入模块：等待元素可见成功！开始时间为2020-06-16 09:29:18.991724，结束时间为2020-06-16 09:29:19.020646,耗时0:00:00.028922
+INFO     root:basepage.py:97 登录页面-密码输入模块:开始查找元素('id', 'pswd')
+INFO     root:basepage.py:109 登录页面-密码输入模块：查找元素成功，开始时间为2020-06-16 09:29:19.021644，结束时间为2020-06-16 09:29:19.028624,耗时0:00:00.006980
+INFO     root:basepage.py:249 登录页面-密码输入#模块:('id', 'pswd')元素的输入框值为123123
+INFO     root:basepage.py:262 登录页面-密码输入模块：输入成功！开始时间为2020-06-16 09:29:19.028624，结束时间为2020-06-16 09:29:19.075499,耗时0:00:00.046875
+INFO     root:test_jhxd_apply.py:537 ******正常场景16：非按揭:利随本清-简化信贷的模板*****
+INFO     root:basepage.py:50 菜单-信贷业务模块:等待('xpath', '//span[text()="信贷业务"]')元素可见.
+INFO     root:basepage.py:62 菜单-信贷业务模块：等待元素可见成功！开始时间为2020-06-16 09:29:19.076497，结束时间为2020-06-16 09:29:20.097765,耗时0:00:01.021268
+INFO     root:basepage.py:97 菜单-信贷业务模块:开始查找元素('xpath', '//span[text()="信贷业务"]')
+INFO     root:basepage.py:109 菜单-信贷业务模块：查找元素成功，开始时间为2020-06-16 09:29:20.098762，结束时间为2020-06-16 09:29:20.106742,耗时0:00:00.007980
+INFO     root:basepage.py:197 菜单-信贷业务模块：对元素('xpath', '//span[text()="信贷业务"]')进行点击操作begin......
+INFO     root:basepage.py:208 菜单-信贷业务模块：鼠标移动到元素并点击成功，开始时间为2020-06-16 09:29:20.107739，结束时间为2020-06-16 09:29:21.133993,耗时0:00:01.026254
+INFO     root:basepage.py:50 菜单-业务申请办理模块:等待('xpath', '//a[text()="业务申请办理"]')元素可见.
+INFO     root:basepage.py:62 菜单-业务申请办理模块：等待元素可见成功！开始时间为2020-06-16 09:29:21.133993，结束时间为2020-06-16 09:29:21.171892,耗时0:00:00.037899
+INFO     root:basepage.py:97 菜单-业务申请办理模块:开始查找元素('xpath', '//a[text()="业务申请办理"]')
+INFO     root:basepage.py:109 菜单-业务申请办理模块：查找元素成功，开始时间为2020-06-16 09:29:21.171892，结束时间为2020-06-16 09:29:21.179901,耗时0:00:00.008009
+INFO     root:basepage.py:222 菜单-业务申请办理模块:对元素('xpath', '//a[text()="业务申请办理"]')进行点击操作begin......
+INFO     root:basepage.py:233 菜单-业务申请办理模块-元素('xpath', '//a[text()="业务申请办理"]')点击:开始时间为2020-06-16 09:29:21.179901，结束时间为2020-06-16 09:29:21.250682,耗时0:00:00.070781
+INFO     root:basepage.py:50 业务申请办理-新增业务按钮模块:等待('xpath', "//button[text()='新增业务']")元素可见.
+INFO     root:basepage.py:62 业务申请办理-新增业务按钮模块：等待元素可见成功！开始时间为2020-06-16 09:29:22.281924，结束时间为2020-06-16 09:29:22.304862,耗时0:00:00.022938
+INFO     root:basepage.py:97 业务申请办理-新增业务按钮模块:开始查找元素('xpath', "//button[text()='新增业务']")
+INFO     root:basepage.py:109 业务申请办理-新增业务按钮模块：查找元素成功，开始时间为2020-06-16 09:29:22.305860，结束时间为2020-06-16 09:29:22.311842,耗时0:00:00.005982
+INFO     root:basepage.py:222 业务申请办理-新增业务按钮模块:对元素('xpath', "//button[text()='新增业务']")进行点击操作begin......
+INFO     root:basepage.py:233 业务申请办理-新增业务按钮模块-元素('xpath', "//button[text()='新增业务']")点击:开始时间为2020-06-16 09:29:22.312841，结束时间为2020-06-16 09:29:22.400607,耗时0:00:00.087766
+INFO     root:basepage.py:50 BuildCustMgrPnl-输入客户名称模块:等待('id', 'custName.BuildCustMgrPnl')元素可见.
+INFO     root:basepage.py:62 BuildCustMgrPnl-输入客户名称模块：等待元素可见成功！开始时间为2020-06-16 09:29:22.400607，结束时间为2020-06-16 09:29:23.775928,耗时0:00:01.375321
+INFO     root:basepage.py:97 BuildCustMgrPnl-输入客户名称模块:开始查找元素('id', 'custName.BuildCustMgrPnl')
+INFO     root:basepage.py:109 BuildCustMgrPnl-输入客户名称模块：查找元素成功，开始时间为2020-06-16 09:29:23.776926，结束时间为2020-06-16 09:29:23.782908,耗时0:00:00.005982
+INFO     root:basepage.py:249 BuildCustMgrPnl-输入客户名称#模块:('id', 'custName.BuildCustMgrPnl')元素的输入框值为A个人客户名称2020-06-16 09:26:19
+INFO     root:basepage.py:262 BuildCustMgrPnl-输入客户名称模块：输入成功！开始时间为2020-06-16 09:29:23.782908，结束时间为2020-06-16 09:29:23.978387,耗时0:00:00.195479
+INFO     root:basepage.py:50 BuildCustMgrPnl-查询按钮模块:等待('id', 'query.BuildCustMgrPnl')元素可见.
+INFO     root:basepage.py:62 BuildCustMgrPnl-查询按钮模块：等待元素可见成功！开始时间为2020-06-16 09:29:23.979383，结束时间为2020-06-16 09:29:24.000327,耗时0:00:00.020944
+INFO     root:basepage.py:97 BuildCustMgrPnl-查询按钮模块:开始查找元素('id', 'query.BuildCustMgrPnl')
+INFO     root:basepage.py:109 BuildCustMgrPnl-查询按钮模块：查找元素成功，开始时间为2020-06-16 09:29:24.000327，结束时间为2020-06-16 09:29:24.007309,耗时0:00:00.006982
+INFO     root:basepage.py:222 BuildCustMgrPnl-查询按钮模块:对元素('id', 'query.BuildCustMgrPnl')进行点击操作begin......
+INFO     root:basepage.py:233 BuildCustMgrPnl-查询按钮模块-元素('id', 'query.BuildCustMgrPnl')点击:开始时间为2020-06-16 09:29:24.007309，结束时间为2020-06-16 09:29:24.095114,耗时0:00:00.087805
+INFO     root:basepage.py:50 BuildCustMgrPnl-新客户按钮模块:等待('id', 'add.BuildCustMgrPnl')元素可见.
+INFO     root:basepage.py:62 BuildCustMgrPnl-新客户按钮模块：等待元素可见成功！开始时间为2020-06-16 09:29:25.095696，结束时间为2020-06-16 09:29:25.117340,耗时0:00:00.021644
+INFO     root:basepage.py:97 BuildCustMgrPnl-新客户按钮模块:开始查找元素('id', 'add.BuildCustMgrPnl')
+INFO     root:basepage.py:109 BuildCustMgrPnl-新客户按钮模块：查找元素成功，开始时间为2020-06-16 09:29:25.118338，结束时间为2020-06-16 09:29:25.123324,耗时0:00:00.004986
+INFO     root:basepage.py:222 BuildCustMgrPnl-新客户按钮模块:对元素('id', 'add.BuildCustMgrPnl')进行点击操作begin......
+INFO     root:basepage.py:233 BuildCustMgrPnl-新客户按钮模块-元素('id', 'add.BuildCustMgrPnl')点击:开始时间为2020-06-16 09:29:25.124322，结束时间为2020-06-16 09:29:25.264946,耗时0:00:00.140624
+INFO     root:basepage.py:50 RegisterCustInfoWin-输入客户名称模块:等待('id', 'custName.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-输入客户名称模块：等待元素可见成功！开始时间为2020-06-16 09:29:25.264946，结束时间为2020-06-16 09:29:25.299852,耗时0:00:00.034906
+INFO     root:basepage.py:97 RegisterCustInfoWin-输入客户名称模块:开始查找元素('id', 'custName.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-输入客户名称模块：查找元素成功，开始时间为2020-06-16 09:29:25.299852，结束时间为2020-06-16 09:29:25.307831,耗时0:00:00.007979
+INFO     root:basepage.py:249 RegisterCustInfoWin-输入客户名称#模块:('id', 'custName.RegisterCustInfoWin')元素的输入框值为A个人客户名称2020-06-16 09:26:19
+INFO     root:basepage.py:262 RegisterCustInfoWin-输入客户名称模块：输入成功！开始时间为2020-06-16 09:29:25.308828，结束时间为2020-06-16 09:29:25.497323,耗时0:00:00.188495
+INFO     root:basepage.py:50 RegisterCustInfoWin-输入身份证号码模块:等待('id', 'paperNo.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-输入身份证号码模块：等待元素可见成功！开始时间为2020-06-16 09:29:25.498321，结束时间为2020-06-16 09:29:25.520262,耗时0:00:00.021941
+INFO     root:basepage.py:97 RegisterCustInfoWin-输入身份证号码模块:开始查找元素('id', 'paperNo.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-输入身份证号码模块：查找元素成功，开始时间为2020-06-16 09:29:25.520262，结束时间为2020-06-16 09:29:25.528241,耗时0:00:00.007979
+INFO     root:basepage.py:249 RegisterCustInfoWin-输入身份证号码#模块:('id', 'paperNo.RegisterCustInfoWin')元素的输入框值为530103199907024772
+INFO     root:basepage.py:262 RegisterCustInfoWin-输入身份证号码模块：输入成功！开始时间为2020-06-16 09:29:25.528241，结束时间为2020-06-16 09:29:25.651910,耗时0:00:00.123669
+INFO     root:basepage.py:50 RegisterCustInfoWin-输入手机证号码模块:等待('id', 'phoneNo.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-输入手机证号码模块：等待元素可见成功！开始时间为2020-06-16 09:29:25.652908，结束时间为2020-06-16 09:29:25.673852,耗时0:00:00.020944
+INFO     root:basepage.py:97 RegisterCustInfoWin-输入手机证号码模块:开始查找元素('id', 'phoneNo.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-输入手机证号码模块：查找元素成功，开始时间为2020-06-16 09:29:25.674849，结束时间为2020-06-16 09:29:25.680833,耗时0:00:00.005984
+INFO     root:basepage.py:249 RegisterCustInfoWin-输入手机证号码#模块:('id', 'phoneNo.RegisterCustInfoWin')元素的输入框值为13351674838
+INFO     root:basepage.py:262 RegisterCustInfoWin-输入手机证号码模块：输入成功！开始时间为2020-06-16 09:29:25.681829，结束时间为2020-06-16 09:29:25.771590,耗时0:00:00.089761
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择客户来源模块:等待('id', 'typeSource.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择客户来源模块：等待元素可见成功！开始时间为2020-06-16 09:29:25.771590，结束时间为2020-06-16 09:29:25.794529,耗时0:00:00.022939
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择客户来源模块:开始查找元素('id', 'typeSource.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择客户来源模块：查找元素成功，开始时间为2020-06-16 09:29:25.794529，结束时间为2020-06-16 09:29:25.801510,耗时0:00:00.006981
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择客户来源模块:对元素('id', 'typeSource.RegisterCustInfoWin')进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择客户来源模块-元素('id', 'typeSource.RegisterCustInfoWin')点击:开始时间为2020-06-16 09:29:25.801510，结束时间为2020-06-16 09:29:25.881297,耗时0:00:00.079787
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择第三方模块:等待('xpath', "//div[@class='x-combo-list-inner']/div[3]")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择第三方模块：等待元素可见成功！开始时间为2020-06-16 09:29:25.881297，结束时间为2020-06-16 09:29:26.412875,耗时0:00:00.531578
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择第三方模块:开始查找元素('xpath', "//div[@class='x-combo-list-inner']/div[3]")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择第三方模块：查找元素成功，开始时间为2020-06-16 09:29:26.412875，结束时间为2020-06-16 09:29:26.420853,耗时0:00:00.007978
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择第三方模块:对元素('xpath', "//div[@class='x-combo-list-inner']/div[3]")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择第三方模块-元素('xpath', "//div[@class='x-combo-list-inner']/div[3]")点击:开始时间为2020-06-16 09:29:26.420853，结束时间为2020-06-16 09:29:26.494658,耗时0:00:00.073805
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择客户来源名称模块:等待('id', 'cdeSource.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择客户来源名称模块：等待元素可见成功！开始时间为2020-06-16 09:29:26.494658，结束时间为2020-06-16 09:29:26.517628,耗时0:00:00.022970
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择客户来源名称模块:开始查找元素('id', 'cdeSource.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择客户来源名称模块：查找元素成功，开始时间为2020-06-16 09:29:26.517628，结束时间为2020-06-16 09:29:26.523579,耗时0:00:00.005951
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择客户来源名称模块:对元素('id', 'cdeSource.RegisterCustInfoWin')进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择客户来源名称模块-元素('id', 'cdeSource.RegisterCustInfoWin')点击:开始时间为2020-06-16 09:29:26.524576，结束时间为2020-06-16 09:29:26.600373,耗时0:00:00.075797
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择客户来源名称第一个模块:等待('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择客户来源名称第一个模块：等待元素可见成功！开始时间为2020-06-16 09:29:26.601371，结束时间为2020-06-16 09:29:27.134943,耗时0:00:00.533572
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择客户来源名称第一个模块:开始查找元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择客户来源名称第一个模块：查找元素成功，开始时间为2020-06-16 09:29:27.134943，结束时间为2020-06-16 09:29:27.142922,耗时0:00:00.007979
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择客户来源名称第一个模块:对元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择客户来源名称第一个模块-元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")点击:开始时间为2020-06-16 09:29:27.142922，结束时间为2020-06-16 09:29:27.207749,耗时0:00:00.064827
+INFO     root:basepage.py:50 RegisterCustInfoWin-用户注册模块:等待('id', 'btnRegister.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-用户注册模块：等待元素可见成功！开始时间为2020-06-16 09:29:27.207749，结束时间为2020-06-16 09:29:27.231685,耗时0:00:00.023936
+INFO     root:basepage.py:97 RegisterCustInfoWin-用户注册模块:开始查找元素('id', 'btnRegister.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-用户注册模块：查找元素成功，开始时间为2020-06-16 09:29:27.231685，结束时间为2020-06-16 09:29:27.237669,耗时0:00:00.005984
+INFO     root:basepage.py:222 RegisterCustInfoWin-用户注册模块:对元素('id', 'btnRegister.RegisterCustInfoWin')进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-用户注册模块-元素('id', 'btnRegister.RegisterCustInfoWin')点击:开始时间为2020-06-16 09:29:27.237669，结束时间为2020-06-16 09:29:27.310474,耗时0:00:00.072805
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择是模块:等待('xpath', "//button[text()='是']")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择是模块：等待元素可见成功！开始时间为2020-06-16 09:29:27.310474，结束时间为2020-06-16 09:29:27.854019,耗时0:00:00.543545
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择是模块:开始查找元素('xpath', "//button[text()='是']")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择是模块：查找元素成功，开始时间为2020-06-16 09:29:27.855018，结束时间为2020-06-16 09:29:27.863994,耗时0:00:00.008976
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择是模块:对元素('xpath', "//button[text()='是']")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择是模块-元素('xpath', "//button[text()='是']")点击:开始时间为2020-06-16 09:29:27.863994，结束时间为2020-06-16 09:29:27.930814,耗时0:00:00.066820
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择确定模块:等待('xpath', "//button[text()='确定']")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择确定模块：等待元素可见成功！开始时间为2020-06-16 09:29:27.930814，结束时间为2020-06-16 09:29:28.483337,耗时0:00:00.552523
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择确定模块:开始查找元素('xpath', "//button[text()='确定']")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择确定模块：查找元素成功，开始时间为2020-06-16 09:29:28.483337，结束时间为2020-06-16 09:29:28.491316,耗时0:00:00.007979
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择确定模块:对元素('xpath', "//button[text()='确定']")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择确定模块-元素('xpath', "//button[text()='确定']")点击:开始时间为2020-06-16 09:29:28.491316，结束时间为2020-06-16 09:29:28.563124,耗时0:00:00.071808
+INFO     root:basepage.py:50 点击新增贷款-进入选择产品和贷款页面模块:等待('id', 'addLoan.OperateWin')元素可见.
+ERROR    root:basepage.py:56 此元素('id', 'addLoan.OperateWin')可能不可见，请确认下元素定位是否正确
+Traceback (most recent call last):
+  File "G:\2020_AUTO\2020xindai_pytest_web\Common\basepage.py", line 53, in wait_ele_visible
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO     root:basepage.py:45 当前图片保存在路径为G:\2020_AUTO\2020xindai_pytest_web\Outputs/screenshots/点击新增贷款-进入选择产品和贷款页面_2020-06-16 09_29_39.png
+INFO     root:basepage.py:50 登录页面-用户名输入模块:等待('id', 'username')元素可见.
+INFO     root:basepage.py:62 登录页面-用户名输入模块：等待元素可见成功！开始时间为2020-06-16 09:29:51.842919，结束时间为2020-06-16 09:29:51.867852,耗时0:00:00.024933
+INFO     root:basepage.py:97 登录页面-用户名输入模块:开始查找元素('id', 'username')
+INFO     root:basepage.py:109 登录页面-用户名输入模块：查找元素成功，开始时间为2020-06-16 09:29:51.868882，结束时间为2020-06-16 09:29:51.876827,耗时0:00:00.007945
+INFO     root:basepage.py:249 登录页面-用户名输入#模块:('id', 'username')元素的输入框值为J3205823010050
+INFO     root:basepage.py:262 登录页面-用户名输入模块：输入成功！开始时间为2020-06-16 09:29:51.876827，结束时间为2020-06-16 09:29:52.033409,耗时0:00:00.156582
+INFO     root:basepage.py:50 登录页面-密码输入模块:等待('id', 'pswd')元素可见.
+INFO     root:basepage.py:62 登录页面-密码输入模块：等待元素可见成功！开始时间为2020-06-16 09:29:52.033409，结束时间为2020-06-16 09:29:52.062331,耗时0:00:00.028922
+INFO     root:basepage.py:97 登录页面-密码输入模块:开始查找元素('id', 'pswd')
+INFO     root:basepage.py:109 登录页面-密码输入模块：查找元素成功，开始时间为2020-06-16 09:29:52.062331，结束时间为2020-06-16 09:29:52.070310,耗时0:00:00.007979
+INFO     root:basepage.py:249 登录页面-密码输入#模块:('id', 'pswd')元素的输入框值为123123
+INFO     root:basepage.py:262 登录页面-密码输入模块：输入成功！开始时间为2020-06-16 09:29:52.070310，结束时间为2020-06-16 09:29:52.122172,耗时0:00:00.051862
+INFO     root:test_jhxd_apply.py:537 ******正常场景16：非按揭:利随本清-简化信贷的模板*****
+INFO     root:basepage.py:50 菜单-信贷业务模块:等待('xpath', '//span[text()="信贷业务"]')元素可见.
+INFO     root:basepage.py:62 菜单-信贷业务模块：等待元素可见成功！开始时间为2020-06-16 09:29:52.123169，结束时间为2020-06-16 09:29:52.927020,耗时0:00:00.803851
+INFO     root:basepage.py:97 菜单-信贷业务模块:开始查找元素('xpath', '//span[text()="信贷业务"]')
+INFO     root:basepage.py:109 菜单-信贷业务模块：查找元素成功，开始时间为2020-06-16 09:29:52.927020，结束时间为2020-06-16 09:29:52.934999,耗时0:00:00.007979
+INFO     root:basepage.py:197 菜单-信贷业务模块：对元素('xpath', '//span[text()="信贷业务"]')进行点击操作begin......
+INFO     root:basepage.py:208 菜单-信贷业务模块：鼠标移动到元素并点击成功，开始时间为2020-06-16 09:29:52.935996，结束时间为2020-06-16 09:29:53.969232,耗时0:00:01.033236
+INFO     root:basepage.py:50 菜单-业务申请办理模块:等待('xpath', '//a[text()="业务申请办理"]')元素可见.
+INFO     root:basepage.py:62 菜单-业务申请办理模块：等待元素可见成功！开始时间为2020-06-16 09:29:53.969232，结束时间为2020-06-16 09:29:53.990174,耗时0:00:00.020942
+INFO     root:basepage.py:97 菜单-业务申请办理模块:开始查找元素('xpath', '//a[text()="业务申请办理"]')
+INFO     root:basepage.py:109 菜单-业务申请办理模块：查找元素成功，开始时间为2020-06-16 09:29:53.990174，结束时间为2020-06-16 09:29:53.998154,耗时0:00:00.007980
+INFO     root:basepage.py:222 菜单-业务申请办理模块:对元素('xpath', '//a[text()="业务申请办理"]')进行点击操作begin......
+INFO     root:basepage.py:233 菜单-业务申请办理模块-元素('xpath', '//a[text()="业务申请办理"]')点击:开始时间为2020-06-16 09:29:53.998154，结束时间为2020-06-16 09:29:54.088910,耗时0:00:00.090756
+INFO     root:basepage.py:50 业务申请办理-新增业务按钮模块:等待('xpath', "//button[text()='新增业务']")元素可见.
+INFO     root:basepage.py:62 业务申请办理-新增业务按钮模块：等待元素可见成功！开始时间为2020-06-16 09:29:55.120152，结束时间为2020-06-16 09:29:55.144089,耗时0:00:00.023937
+INFO     root:basepage.py:97 业务申请办理-新增业务按钮模块:开始查找元素('xpath', "//button[text()='新增业务']")
+INFO     root:basepage.py:109 业务申请办理-新增业务按钮模块：查找元素成功，开始时间为2020-06-16 09:29:55.144089，结束时间为2020-06-16 09:29:55.154062,耗时0:00:00.009973
+INFO     root:basepage.py:222 业务申请办理-新增业务按钮模块:对元素('xpath', "//button[text()='新增业务']")进行点击操作begin......
+INFO     root:basepage.py:233 业务申请办理-新增业务按钮模块-元素('xpath', "//button[text()='新增业务']")点击:开始时间为2020-06-16 09:29:55.154062，结束时间为2020-06-16 09:29:55.242824,耗时0:00:00.088762
+INFO     root:basepage.py:50 BuildCustMgrPnl-输入客户名称模块:等待('id', 'custName.BuildCustMgrPnl')元素可见.
+INFO     root:basepage.py:62 BuildCustMgrPnl-输入客户名称模块：等待元素可见成功！开始时间为2020-06-16 09:29:55.242824，结束时间为2020-06-16 09:29:56.776722,耗时0:00:01.533898
+INFO     root:basepage.py:97 BuildCustMgrPnl-输入客户名称模块:开始查找元素('id', 'custName.BuildCustMgrPnl')
+INFO     root:basepage.py:109 BuildCustMgrPnl-输入客户名称模块：查找元素成功，开始时间为2020-06-16 09:29:56.777719，结束时间为2020-06-16 09:29:56.788690,耗时0:00:00.010971
+INFO     root:basepage.py:249 BuildCustMgrPnl-输入客户名称#模块:('id', 'custName.BuildCustMgrPnl')元素的输入框值为A个人客户名称2020-06-16 09:26:19
+INFO     root:basepage.py:262 BuildCustMgrPnl-输入客户名称模块：输入成功！开始时间为2020-06-16 09:29:56.788690，结束时间为2020-06-16 09:29:56.996136,耗时0:00:00.207446
+INFO     root:basepage.py:50 BuildCustMgrPnl-查询按钮模块:等待('id', 'query.BuildCustMgrPnl')元素可见.
+INFO     root:basepage.py:62 BuildCustMgrPnl-查询按钮模块：等待元素可见成功！开始时间为2020-06-16 09:29:56.996136，结束时间为2020-06-16 09:29:57.017079,耗时0:00:00.020943
+INFO     root:basepage.py:97 BuildCustMgrPnl-查询按钮模块:开始查找元素('id', 'query.BuildCustMgrPnl')
+INFO     root:basepage.py:109 BuildCustMgrPnl-查询按钮模块：查找元素成功，开始时间为2020-06-16 09:29:57.017079，结束时间为2020-06-16 09:29:57.024061,耗时0:00:00.006982
+INFO     root:basepage.py:222 BuildCustMgrPnl-查询按钮模块:对元素('id', 'query.BuildCustMgrPnl')进行点击操作begin......
+INFO     root:basepage.py:233 BuildCustMgrPnl-查询按钮模块-元素('id', 'query.BuildCustMgrPnl')点击:开始时间为2020-06-16 09:29:57.025102，结束时间为2020-06-16 09:29:57.107837,耗时0:00:00.082735
+INFO     root:basepage.py:50 BuildCustMgrPnl-新客户按钮模块:等待('id', 'add.BuildCustMgrPnl')元素可见.
+INFO     root:basepage.py:62 BuildCustMgrPnl-新客户按钮模块：等待元素可见成功！开始时间为2020-06-16 09:29:58.108171，结束时间为2020-06-16 09:29:58.129105,耗时0:00:00.020934
+INFO     root:basepage.py:97 BuildCustMgrPnl-新客户按钮模块:开始查找元素('id', 'add.BuildCustMgrPnl')
+INFO     root:basepage.py:109 BuildCustMgrPnl-新客户按钮模块：查找元素成功，开始时间为2020-06-16 09:29:58.129105，结束时间为2020-06-16 09:29:58.136087,耗时0:00:00.006982
+INFO     root:basepage.py:222 BuildCustMgrPnl-新客户按钮模块:对元素('id', 'add.BuildCustMgrPnl')进行点击操作begin......
+INFO     root:basepage.py:233 BuildCustMgrPnl-新客户按钮模块-元素('id', 'add.BuildCustMgrPnl')点击:开始时间为2020-06-16 09:29:58.136087，结束时间为2020-06-16 09:29:58.274717,耗时0:00:00.138630
+INFO     root:basepage.py:50 RegisterCustInfoWin-输入客户名称模块:等待('id', 'custName.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-输入客户名称模块：等待元素可见成功！开始时间为2020-06-16 09:29:58.275713，结束时间为2020-06-16 09:29:58.303638,耗时0:00:00.027925
+INFO     root:basepage.py:97 RegisterCustInfoWin-输入客户名称模块:开始查找元素('id', 'custName.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-输入客户名称模块：查找元素成功，开始时间为2020-06-16 09:29:58.303638，结束时间为2020-06-16 09:29:58.310619,耗时0:00:00.006981
+INFO     root:basepage.py:249 RegisterCustInfoWin-输入客户名称#模块:('id', 'custName.RegisterCustInfoWin')元素的输入框值为A个人客户名称2020-06-16 09:26:19
+INFO     root:basepage.py:262 RegisterCustInfoWin-输入客户名称模块：输入成功！开始时间为2020-06-16 09:29:58.310619，结束时间为2020-06-16 09:29:58.499115,耗时0:00:00.188496
+INFO     root:basepage.py:50 RegisterCustInfoWin-输入身份证号码模块:等待('id', 'paperNo.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-输入身份证号码模块：等待元素可见成功！开始时间为2020-06-16 09:29:58.499115，结束时间为2020-06-16 09:29:58.521057,耗时0:00:00.021942
+INFO     root:basepage.py:97 RegisterCustInfoWin-输入身份证号码模块:开始查找元素('id', 'paperNo.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-输入身份证号码模块：查找元素成功，开始时间为2020-06-16 09:29:58.522055，结束时间为2020-06-16 09:29:58.529035,耗时0:00:00.006980
+INFO     root:basepage.py:249 RegisterCustInfoWin-输入身份证号码#模块:('id', 'paperNo.RegisterCustInfoWin')元素的输入框值为530103199907024772
+INFO     root:basepage.py:262 RegisterCustInfoWin-输入身份证号码模块：输入成功！开始时间为2020-06-16 09:29:58.529035，结束时间为2020-06-16 09:29:58.649711,耗时0:00:00.120676
+INFO     root:basepage.py:50 RegisterCustInfoWin-输入手机证号码模块:等待('id', 'phoneNo.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-输入手机证号码模块：等待元素可见成功！开始时间为2020-06-16 09:29:58.650710，结束时间为2020-06-16 09:29:58.671654,耗时0:00:00.020944
+INFO     root:basepage.py:97 RegisterCustInfoWin-输入手机证号码模块:开始查找元素('id', 'phoneNo.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-输入手机证号码模块：查找元素成功，开始时间为2020-06-16 09:29:58.671654，结束时间为2020-06-16 09:29:58.678635,耗时0:00:00.006981
+INFO     root:basepage.py:249 RegisterCustInfoWin-输入手机证号码#模块:('id', 'phoneNo.RegisterCustInfoWin')元素的输入框值为13351674838
+INFO     root:basepage.py:262 RegisterCustInfoWin-输入手机证号码模块：输入成功！开始时间为2020-06-16 09:29:58.678635，结束时间为2020-06-16 09:29:58.775377,耗时0:00:00.096742
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择客户来源模块:等待('id', 'typeSource.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择客户来源模块：等待元素可见成功！开始时间为2020-06-16 09:29:58.775377，结束时间为2020-06-16 09:29:58.796320,耗时0:00:00.020943
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择客户来源模块:开始查找元素('id', 'typeSource.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择客户来源模块：查找元素成功，开始时间为2020-06-16 09:29:58.796320，结束时间为2020-06-16 09:29:58.804334,耗时0:00:00.008014
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择客户来源模块:对元素('id', 'typeSource.RegisterCustInfoWin')进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择客户来源模块-元素('id', 'typeSource.RegisterCustInfoWin')点击:开始时间为2020-06-16 09:29:58.804334，结束时间为2020-06-16 09:29:58.902037,耗时0:00:00.097703
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择第三方模块:等待('xpath', "//div[@class='x-combo-list-inner']/div[3]")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择第三方模块：等待元素可见成功！开始时间为2020-06-16 09:29:58.903035，结束时间为2020-06-16 09:29:59.437606,耗时0:00:00.534571
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择第三方模块:开始查找元素('xpath', "//div[@class='x-combo-list-inner']/div[3]")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择第三方模块：查找元素成功，开始时间为2020-06-16 09:29:59.437606，结束时间为2020-06-16 09:29:59.445584,耗时0:00:00.007978
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择第三方模块:对元素('xpath', "//div[@class='x-combo-list-inner']/div[3]")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择第三方模块-元素('xpath', "//div[@class='x-combo-list-inner']/div[3]")点击:开始时间为2020-06-16 09:29:59.445584，结束时间为2020-06-16 09:29:59.515399,耗时0:00:00.069815
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择客户来源名称模块:等待('id', 'cdeSource.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择客户来源名称模块：等待元素可见成功！开始时间为2020-06-16 09:29:59.515399，结束时间为2020-06-16 09:29:59.538335,耗时0:00:00.022936
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择客户来源名称模块:开始查找元素('id', 'cdeSource.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择客户来源名称模块：查找元素成功，开始时间为2020-06-16 09:29:59.538335，结束时间为2020-06-16 09:29:59.545317,耗时0:00:00.006982
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择客户来源名称模块:对元素('id', 'cdeSource.RegisterCustInfoWin')进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择客户来源名称模块-元素('id', 'cdeSource.RegisterCustInfoWin')点击:开始时间为2020-06-16 09:29:59.545317，结束时间为2020-06-16 09:29:59.642058,耗时0:00:00.096741
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择客户来源名称第一个模块:等待('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择客户来源名称第一个模块：等待元素可见成功！开始时间为2020-06-16 09:29:59.642058，结束时间为2020-06-16 09:30:00.174633,耗时0:00:00.532575
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择客户来源名称第一个模块:开始查找元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择客户来源名称第一个模块：查找元素成功，开始时间为2020-06-16 09:30:00.174633，结束时间为2020-06-16 09:30:00.182613,耗时0:00:00.007980
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择客户来源名称第一个模块:对元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择客户来源名称第一个模块-元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")点击:开始时间为2020-06-16 09:30:00.182613，结束时间为2020-06-16 09:30:00.245445,耗时0:00:00.062832
+INFO     root:basepage.py:50 RegisterCustInfoWin-用户注册模块:等待('id', 'btnRegister.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-用户注册模块：等待元素可见成功！开始时间为2020-06-16 09:30:00.246497，结束时间为2020-06-16 09:30:00.267386,耗时0:00:00.020889
+INFO     root:basepage.py:97 RegisterCustInfoWin-用户注册模块:开始查找元素('id', 'btnRegister.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-用户注册模块：查找元素成功，开始时间为2020-06-16 09:30:00.267386，结束时间为2020-06-16 09:30:00.276363,耗时0:00:00.008977
+INFO     root:basepage.py:222 RegisterCustInfoWin-用户注册模块:对元素('id', 'btnRegister.RegisterCustInfoWin')进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-用户注册模块-元素('id', 'btnRegister.RegisterCustInfoWin')点击:开始时间为2020-06-16 09:30:00.276363，结束时间为2020-06-16 09:30:00.360138,耗时0:00:00.083775
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择是模块:等待('xpath', "//button[text()='是']")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择是模块：等待元素可见成功！开始时间为2020-06-16 09:30:00.360138，结束时间为2020-06-16 09:30:00.900692,耗时0:00:00.540554
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择是模块:开始查找元素('xpath', "//button[text()='是']")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择是模块：查找元素成功，开始时间为2020-06-16 09:30:00.901703，结束时间为2020-06-16 09:30:00.909668,耗时0:00:00.007965
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择是模块:对元素('xpath', "//button[text()='是']")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择是模块-元素('xpath', "//button[text()='是']")点击:开始时间为2020-06-16 09:30:00.909668，结束时间为2020-06-16 09:30:00.977487,耗时0:00:00.067819
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择确定模块:等待('xpath', "//button[text()='确定']")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择确定模块：等待元素可见成功！开始时间为2020-06-16 09:30:00.977487，结束时间为2020-06-16 09:30:01.531006,耗时0:00:00.553519
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择确定模块:开始查找元素('xpath', "//button[text()='确定']")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择确定模块：查找元素成功，开始时间为2020-06-16 09:30:01.531006，结束时间为2020-06-16 09:30:01.537989,耗时0:00:00.006983
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择确定模块:对元素('xpath', "//button[text()='确定']")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择确定模块-元素('xpath', "//button[text()='确定']")点击:开始时间为2020-06-16 09:30:01.538985，结束时间为2020-06-16 09:30:01.611820,耗时0:00:00.072835
+INFO     root:basepage.py:50 点击新增贷款-进入选择产品和贷款页面模块:等待('id', 'addLoan.OperateWin')元素可见.
+ERROR    root:basepage.py:56 此元素('id', 'addLoan.OperateWin')可能不可见，请确认下元素定位是否正确
+Traceback (most recent call last):
+  File "G:\2020_AUTO\2020xindai_pytest_web\Common\basepage.py", line 53, in wait_ele_visible
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO     root:basepage.py:45 当前图片保存在路径为G:\2020_AUTO\2020xindai_pytest_web\Outputs/screenshots/点击新增贷款-进入选择产品和贷款页面_2020-06-16 09_30_12.png

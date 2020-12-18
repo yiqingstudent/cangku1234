@@ -1,0 +1,543 @@
+INFO     root:basepage.py:50 登录页面-用户名输入模块:等待('id', 'username')元素可见.
+INFO     root:basepage.py:62 登录页面-用户名输入模块：等待元素可见成功！开始时间为2020-06-16 11:23:16.450699，结束时间为2020-06-16 11:23:16.482614,耗时0:00:00.031915
+INFO     root:basepage.py:97 登录页面-用户名输入模块:开始查找元素('id', 'username')
+INFO     root:basepage.py:109 登录页面-用户名输入模块：查找元素成功，开始时间为2020-06-16 11:23:16.483612，结束时间为2020-06-16 11:23:16.489594,耗时0:00:00.005982
+INFO     root:basepage.py:249 登录页面-用户名输入#模块:('id', 'username')元素的输入框值为J3205823010050
+INFO     root:basepage.py:262 登录页面-用户名输入模块：输入成功！开始时间为2020-06-16 11:23:16.490592，结束时间为2020-06-16 11:23:16.709008,耗时0:00:00.218416
+INFO     root:basepage.py:50 登录页面-密码输入模块:等待('id', 'pswd')元素可见.
+INFO     root:basepage.py:62 登录页面-密码输入模块：等待元素可见成功！开始时间为2020-06-16 11:23:16.710005，结束时间为2020-06-16 11:23:16.743915,耗时0:00:00.033910
+INFO     root:basepage.py:97 登录页面-密码输入模块:开始查找元素('id', 'pswd')
+INFO     root:basepage.py:109 登录页面-密码输入模块：查找元素成功，开始时间为2020-06-16 11:23:16.744914，结束时间为2020-06-16 11:23:16.751895,耗时0:00:00.006981
+INFO     root:basepage.py:249 登录页面-密码输入#模块:('id', 'pswd')元素的输入框值为123123
+INFO     root:basepage.py:262 登录页面-密码输入模块：输入成功！开始时间为2020-06-16 11:23:16.752892，结束时间为2020-06-16 11:23:16.801760,耗时0:00:00.048868
+INFO     root:test_jhxd_apply.py:465 ******正常场景14：非按揭-短期-简化信贷的模板-若申请当日为某期次结息日，则不能指定为方式1、当期生效*****
+INFO     root:basepage.py:50 菜单-信贷业务模块:等待('xpath', '//span[text()="信贷业务"]')元素可见.
+INFO     root:basepage.py:62 菜单-信贷业务模块：等待元素可见成功！开始时间为2020-06-16 11:23:16.801760，结束时间为2020-06-16 11:23:17.751222,耗时0:00:00.949462
+INFO     root:basepage.py:97 菜单-信贷业务模块:开始查找元素('xpath', '//span[text()="信贷业务"]')
+INFO     root:basepage.py:109 菜单-信贷业务模块：查找元素成功，开始时间为2020-06-16 11:23:17.752255，结束时间为2020-06-16 11:23:17.760196,耗时0:00:00.007941
+INFO     root:basepage.py:197 菜单-信贷业务模块：对元素('xpath', '//span[text()="信贷业务"]')进行点击操作begin......
+INFO     root:basepage.py:208 菜单-信贷业务模块：鼠标移动到元素并点击成功，开始时间为2020-06-16 11:23:17.761197，结束时间为2020-06-16 11:23:18.779470,耗时0:00:01.018273
+INFO     root:basepage.py:50 菜单-业务申请办理模块:等待('xpath', '//a[text()="业务申请办理"]')元素可见.
+INFO     root:basepage.py:62 菜单-业务申请办理模块：等待元素可见成功！开始时间为2020-06-16 11:23:18.779470，结束时间为2020-06-16 11:23:18.801412,耗时0:00:00.021942
+INFO     root:basepage.py:97 菜单-业务申请办理模块:开始查找元素('xpath', '//a[text()="业务申请办理"]')
+INFO     root:basepage.py:109 菜单-业务申请办理模块：查找元素成功，开始时间为2020-06-16 11:23:18.802447，结束时间为2020-06-16 11:23:18.811387,耗时0:00:00.008940
+INFO     root:basepage.py:222 菜单-业务申请办理模块:对元素('xpath', '//a[text()="业务申请办理"]')进行点击操作begin......
+INFO     root:basepage.py:233 菜单-业务申请办理模块-元素('xpath', '//a[text()="业务申请办理"]')点击:开始时间为2020-06-16 11:23:18.811387，结束时间为2020-06-16 11:23:18.925081,耗时0:00:00.113694
+INFO     root:basepage.py:50 业务申请办理-新增业务按钮模块:等待('xpath', "//button[text()='新增业务']")元素可见.
+INFO     root:basepage.py:62 业务申请办理-新增业务按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:19.962307，结束时间为2020-06-16 11:23:19.989235,耗时0:00:00.026928
+INFO     root:basepage.py:97 业务申请办理-新增业务按钮模块:开始查找元素('xpath', "//button[text()='新增业务']")
+INFO     root:basepage.py:109 业务申请办理-新增业务按钮模块：查找元素成功，开始时间为2020-06-16 11:23:19.989235，结束时间为2020-06-16 11:23:19.998211,耗时0:00:00.008976
+INFO     root:basepage.py:222 业务申请办理-新增业务按钮模块:对元素('xpath', "//button[text()='新增业务']")进行点击操作begin......
+INFO     root:basepage.py:233 业务申请办理-新增业务按钮模块-元素('xpath', "//button[text()='新增业务']")点击:开始时间为2020-06-16 11:23:19.998211，结束时间为2020-06-16 11:23:20.095950,耗时0:00:00.097739
+INFO     root:basepage.py:50 BuildCustMgrPnl-输入客户名称模块:等待('id', 'custName.BuildCustMgrPnl')元素可见.
+INFO     root:basepage.py:62 BuildCustMgrPnl-输入客户名称模块：等待元素可见成功！开始时间为2020-06-16 11:23:20.096947，结束时间为2020-06-16 11:23:21.594941,耗时0:00:01.497994
+INFO     root:basepage.py:97 BuildCustMgrPnl-输入客户名称模块:开始查找元素('id', 'custName.BuildCustMgrPnl')
+INFO     root:basepage.py:109 BuildCustMgrPnl-输入客户名称模块：查找元素成功，开始时间为2020-06-16 11:23:21.595937，结束时间为2020-06-16 11:23:21.603915,耗时0:00:00.007978
+INFO     root:basepage.py:249 BuildCustMgrPnl-输入客户名称#模块:('id', 'custName.BuildCustMgrPnl')元素的输入框值为A个人客户名称2020-06-16 11:23:11
+INFO     root:basepage.py:262 BuildCustMgrPnl-输入客户名称模块：输入成功！开始时间为2020-06-16 11:23:21.603915，结束时间为2020-06-16 11:23:21.854246,耗时0:00:00.250331
+INFO     root:basepage.py:50 BuildCustMgrPnl-查询按钮模块:等待('id', 'query.BuildCustMgrPnl')元素可见.
+INFO     root:basepage.py:62 BuildCustMgrPnl-查询按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:21.854246，结束时间为2020-06-16 11:23:21.879179,耗时0:00:00.024933
+INFO     root:basepage.py:97 BuildCustMgrPnl-查询按钮模块:开始查找元素('id', 'query.BuildCustMgrPnl')
+INFO     root:basepage.py:109 BuildCustMgrPnl-查询按钮模块：查找元素成功，开始时间为2020-06-16 11:23:21.879179，结束时间为2020-06-16 11:23:21.885164,耗时0:00:00.005985
+INFO     root:basepage.py:222 BuildCustMgrPnl-查询按钮模块:对元素('id', 'query.BuildCustMgrPnl')进行点击操作begin......
+INFO     root:basepage.py:233 BuildCustMgrPnl-查询按钮模块-元素('id', 'query.BuildCustMgrPnl')点击:开始时间为2020-06-16 11:23:21.886161，结束时间为2020-06-16 11:23:21.970934,耗时0:00:00.084773
+INFO     root:basepage.py:50 BuildCustMgrPnl-新客户按钮模块:等待('id', 'add.BuildCustMgrPnl')元素可见.
+INFO     root:basepage.py:62 BuildCustMgrPnl-新客户按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:22.972255，结束时间为2020-06-16 11:23:22.998187,耗时0:00:00.025932
+INFO     root:basepage.py:97 BuildCustMgrPnl-新客户按钮模块:开始查找元素('id', 'add.BuildCustMgrPnl')
+INFO     root:basepage.py:109 BuildCustMgrPnl-新客户按钮模块：查找元素成功，开始时间为2020-06-16 11:23:22.999184，结束时间为2020-06-16 11:23:23.007162,耗时0:00:00.007978
+INFO     root:basepage.py:222 BuildCustMgrPnl-新客户按钮模块:对元素('id', 'add.BuildCustMgrPnl')进行点击操作begin......
+INFO     root:basepage.py:233 BuildCustMgrPnl-新客户按钮模块-元素('id', 'add.BuildCustMgrPnl')点击:开始时间为2020-06-16 11:23:23.008161，结束时间为2020-06-16 11:23:23.187680,耗时0:00:00.179519
+INFO     root:basepage.py:50 RegisterCustInfoWin-输入客户名称模块:等待('id', 'custName.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-输入客户名称模块：等待元素可见成功！开始时间为2020-06-16 11:23:23.188678，结束时间为2020-06-16 11:23:23.223586,耗时0:00:00.034908
+INFO     root:basepage.py:97 RegisterCustInfoWin-输入客户名称模块:开始查找元素('id', 'custName.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-输入客户名称模块：查找元素成功，开始时间为2020-06-16 11:23:23.223586，结束时间为2020-06-16 11:23:23.230564,耗时0:00:00.006978
+INFO     root:basepage.py:249 RegisterCustInfoWin-输入客户名称#模块:('id', 'custName.RegisterCustInfoWin')元素的输入框值为A个人客户名称2020-06-16 11:23:11
+INFO     root:basepage.py:262 RegisterCustInfoWin-输入客户名称模块：输入成功！开始时间为2020-06-16 11:23:23.231562，结束时间为2020-06-16 11:23:23.512810,耗时0:00:00.281248
+INFO     root:basepage.py:50 RegisterCustInfoWin-输入身份证号码模块:等待('id', 'paperNo.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-输入身份证号码模块：等待元素可见成功！开始时间为2020-06-16 11:23:23.513807，结束时间为2020-06-16 11:23:23.536746,耗时0:00:00.022939
+INFO     root:basepage.py:97 RegisterCustInfoWin-输入身份证号码模块:开始查找元素('id', 'paperNo.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-输入身份证号码模块：查找元素成功，开始时间为2020-06-16 11:23:23.536746，结束时间为2020-06-16 11:23:23.543728,耗时0:00:00.006982
+INFO     root:basepage.py:249 RegisterCustInfoWin-输入身份证号码#模块:('id', 'paperNo.RegisterCustInfoWin')元素的输入框值为522300198703095859
+INFO     root:basepage.py:262 RegisterCustInfoWin-输入身份证号码模块：输入成功！开始时间为2020-06-16 11:23:23.544725，结束时间为2020-06-16 11:23:23.707290,耗时0:00:00.162565
+INFO     root:basepage.py:50 RegisterCustInfoWin-输入手机证号码模块:等待('id', 'phoneNo.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-输入手机证号码模块：等待元素可见成功！开始时间为2020-06-16 11:23:23.707290，结束时间为2020-06-16 11:23:23.729232,耗时0:00:00.021942
+INFO     root:basepage.py:97 RegisterCustInfoWin-输入手机证号码模块:开始查找元素('id', 'phoneNo.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-输入手机证号码模块：查找元素成功，开始时间为2020-06-16 11:23:23.730230，结束时间为2020-06-16 11:23:23.737209,耗时0:00:00.006979
+INFO     root:basepage.py:249 RegisterCustInfoWin-输入手机证号码#模块:('id', 'phoneNo.RegisterCustInfoWin')元素的输入框值为15580390483
+INFO     root:basepage.py:262 RegisterCustInfoWin-输入手机证号码模块：输入成功！开始时间为2020-06-16 11:23:23.737209，结束时间为2020-06-16 11:23:23.851904,耗时0:00:00.114695
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择客户来源模块:等待('id', 'typeSource.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择客户来源模块：等待元素可见成功！开始时间为2020-06-16 11:23:23.852901，结束时间为2020-06-16 11:23:23.874843,耗时0:00:00.021942
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择客户来源模块:开始查找元素('id', 'typeSource.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择客户来源模块：查找元素成功，开始时间为2020-06-16 11:23:23.875840，结束时间为2020-06-16 11:23:23.886809,耗时0:00:00.010969
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择客户来源模块:对元素('id', 'typeSource.RegisterCustInfoWin')进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择客户来源模块-元素('id', 'typeSource.RegisterCustInfoWin')点击:开始时间为2020-06-16 11:23:23.887809，结束时间为2020-06-16 11:23:23.994521,耗时0:00:00.106712
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择第三方模块:等待('xpath', "//div[@class='x-combo-list-inner']/div[3]")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择第三方模块：等待元素可见成功！开始时间为2020-06-16 11:23:23.995519，结束时间为2020-06-16 11:23:24.533083,耗时0:00:00.537564
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择第三方模块:开始查找元素('xpath', "//div[@class='x-combo-list-inner']/div[3]")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择第三方模块：查找元素成功，开始时间为2020-06-16 11:23:24.533083，结束时间为2020-06-16 11:23:24.543054,耗时0:00:00.009971
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择第三方模块:对元素('xpath', "//div[@class='x-combo-list-inner']/div[3]")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择第三方模块-元素('xpath', "//div[@class='x-combo-list-inner']/div[3]")点击:开始时间为2020-06-16 11:23:24.544052，结束时间为2020-06-16 11:23:24.625834,耗时0:00:00.081782
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择客户来源名称模块:等待('id', 'cdeSource.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择客户来源名称模块：等待元素可见成功！开始时间为2020-06-16 11:23:24.626831，结束时间为2020-06-16 11:23:24.652761,耗时0:00:00.025930
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择客户来源名称模块:开始查找元素('id', 'cdeSource.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择客户来源名称模块：查找元素成功，开始时间为2020-06-16 11:23:24.652761，结束时间为2020-06-16 11:23:24.660739,耗时0:00:00.007978
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择客户来源名称模块:对元素('id', 'cdeSource.RegisterCustInfoWin')进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择客户来源名称模块-元素('id', 'cdeSource.RegisterCustInfoWin')点击:开始时间为2020-06-16 11:23:24.661737，结束时间为2020-06-16 11:23:24.776430,耗时0:00:00.114693
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择客户来源名称第一个模块:等待('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择客户来源名称第一个模块：等待元素可见成功！开始时间为2020-06-16 11:23:24.776430，结束时间为2020-06-16 11:23:25.310003,耗时0:00:00.533573
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择客户来源名称第一个模块:开始查找元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择客户来源名称第一个模块：查找元素成功，开始时间为2020-06-16 11:23:25.311000，结束时间为2020-06-16 11:23:25.318981,耗时0:00:00.007981
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择客户来源名称第一个模块:对元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择客户来源名称第一个模块-元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")点击:开始时间为2020-06-16 11:23:25.318981，结束时间为2020-06-16 11:23:25.389790,耗时0:00:00.070809
+INFO     root:basepage.py:50 RegisterCustInfoWin-用户注册模块:等待('id', 'btnRegister.RegisterCustInfoWin')元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-用户注册模块：等待元素可见成功！开始时间为2020-06-16 11:23:25.389790，结束时间为2020-06-16 11:23:25.412729,耗时0:00:00.022939
+INFO     root:basepage.py:97 RegisterCustInfoWin-用户注册模块:开始查找元素('id', 'btnRegister.RegisterCustInfoWin')
+INFO     root:basepage.py:109 RegisterCustInfoWin-用户注册模块：查找元素成功，开始时间为2020-06-16 11:23:25.412729，结束时间为2020-06-16 11:23:25.418712,耗时0:00:00.005983
+INFO     root:basepage.py:222 RegisterCustInfoWin-用户注册模块:对元素('id', 'btnRegister.RegisterCustInfoWin')进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-用户注册模块-元素('id', 'btnRegister.RegisterCustInfoWin')点击:开始时间为2020-06-16 11:23:25.419709，结束时间为2020-06-16 11:23:25.508472,耗时0:00:00.088763
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择是模块:等待('xpath', "//button[text()='是']")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择是模块：等待元素可见成功！开始时间为2020-06-16 11:23:25.508472，结束时间为2020-06-16 11:23:26.053015,耗时0:00:00.544543
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择是模块:开始查找元素('xpath', "//button[text()='是']")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择是模块：查找元素成功，开始时间为2020-06-16 11:23:26.053015，结束时间为2020-06-16 11:23:26.060995,耗时0:00:00.007980
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择是模块:对元素('xpath', "//button[text()='是']")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择是模块-元素('xpath', "//button[text()='是']")点击:开始时间为2020-06-16 11:23:26.060995，结束时间为2020-06-16 11:23:26.131806,耗时0:00:00.070811
+INFO     root:basepage.py:50 RegisterCustInfoWin-选择确定模块:等待('xpath', "//button[text()='确定']")元素可见.
+INFO     root:basepage.py:62 RegisterCustInfoWin-选择确定模块：等待元素可见成功！开始时间为2020-06-16 11:23:26.131806，结束时间为2020-06-16 11:23:26.689315,耗时0:00:00.557509
+INFO     root:basepage.py:97 RegisterCustInfoWin-选择确定模块:开始查找元素('xpath', "//button[text()='确定']")
+INFO     root:basepage.py:109 RegisterCustInfoWin-选择确定模块：查找元素成功，开始时间为2020-06-16 11:23:26.689315，结束时间为2020-06-16 11:23:26.698291,耗时0:00:00.008976
+INFO     root:basepage.py:222 RegisterCustInfoWin-选择确定模块:对元素('xpath', "//button[text()='确定']")进行点击操作begin......
+INFO     root:basepage.py:233 RegisterCustInfoWin-选择确定模块-元素('xpath', "//button[text()='确定']")点击:开始时间为2020-06-16 11:23:26.698291，结束时间为2020-06-16 11:23:26.771095,耗时0:00:00.072804
+INFO     root:basepage.py:50 点击新增贷款-进入选择产品和贷款页面模块:等待('id', 'addLoan.OperateWin')元素可见.
+INFO     root:basepage.py:62 点击新增贷款-进入选择产品和贷款页面模块：等待元素可见成功！开始时间为2020-06-16 11:23:27.771426，结束时间为2020-06-16 11:23:27.797351,耗时0:00:00.025925
+INFO     root:basepage.py:97 点击新增贷款-进入选择产品和贷款页面模块:开始查找元素('id', 'addLoan.OperateWin')
+INFO     root:basepage.py:109 点击新增贷款-进入选择产品和贷款页面模块：查找元素成功，开始时间为2020-06-16 11:23:27.797351，结束时间为2020-06-16 11:23:27.805329,耗时0:00:00.007978
+INFO     root:basepage.py:222 点击新增贷款-进入选择产品和贷款页面模块:对元素('id', 'addLoan.OperateWin')进行点击操作begin......
+INFO     root:basepage.py:233 点击新增贷款-进入选择产品和贷款页面模块-元素('id', 'addLoan.OperateWin')点击:开始时间为2020-06-16 11:23:27.805329，结束时间为2020-06-16 11:23:27.888108,耗时0:00:00.082779
+INFO     root:basepage.py:50 选择客户页面-产品类型模块:等待('id', 'prodNo.ChooseProductWin')元素可见.
+INFO     root:basepage.py:62 选择客户页面-产品类型模块：等待元素可见成功！开始时间为2020-06-16 11:23:27.889107，结束时间为2020-06-16 11:23:28.433649,耗时0:00:00.544542
+INFO     root:basepage.py:97 选择客户页面-产品类型模块:开始查找元素('id', 'prodNo.ChooseProductWin')
+INFO     root:basepage.py:109 选择客户页面-产品类型模块：查找元素成功，开始时间为2020-06-16 11:23:28.434647，结束时间为2020-06-16 11:23:28.440630,耗时0:00:00.005983
+INFO     root:basepage.py:222 选择客户页面-产品类型模块:对元素('id', 'prodNo.ChooseProductWin')进行点击操作begin......
+INFO     root:basepage.py:233 选择客户页面-产品类型模块-元素('id', 'prodNo.ChooseProductWin')点击:开始时间为2020-06-16 11:23:28.440630，结束时间为2020-06-16 11:23:28.521415,耗时0:00:00.080785
+INFO     root:basepage.py:50 选择产品页面-简化信贷产品模板模块:等待('xpath', "//div[text()='简化信贷1218-yi']")元素可见.
+INFO     root:basepage.py:62 选择产品页面-简化信贷产品模板模块：等待元素可见成功！开始时间为2020-06-16 11:23:28.522413，结束时间为2020-06-16 11:23:29.056982,耗时0:00:00.534569
+INFO     root:basepage.py:97 选择产品页面-简化信贷产品模板模块:开始查找元素('xpath', "//div[text()='简化信贷1218-yi']")
+INFO     root:basepage.py:109 选择产品页面-简化信贷产品模板模块：查找元素成功，开始时间为2020-06-16 11:23:29.056982，结束时间为2020-06-16 11:23:29.065957,耗时0:00:00.008975
+INFO     root:basepage.py:222 选择产品页面-简化信贷产品模板模块:对元素('xpath', "//div[text()='简化信贷1218-yi']")进行点击操作begin......
+INFO     root:basepage.py:233 选择产品页面-简化信贷产品模板模块-元素('xpath', "//div[text()='简化信贷1218-yi']")点击:开始时间为2020-06-16 11:23:29.065957，结束时间为2020-06-16 11:23:29.146741,耗时0:00:00.080784
+INFO     root:basepage.py:50 选择产品页面-点击确定按钮模块:等待('id', 'btOk.SetPayDate')元素可见.
+INFO     root:basepage.py:62 选择产品页面-点击确定按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:29.147739，结束时间为2020-06-16 11:23:29.194614,耗时0:00:00.046875
+INFO     root:basepage.py:97 选择产品页面-点击确定按钮模块:开始查找元素('id', 'btOk.SetPayDate')
+INFO     root:basepage.py:109 选择产品页面-点击确定按钮模块：查找元素成功，开始时间为2020-06-16 11:23:29.195611，结束时间为2020-06-16 11:23:29.201595,耗时0:00:00.005984
+INFO     root:basepage.py:222 选择产品页面-点击确定按钮模块:对元素('id', 'btOk.SetPayDate')进行点击操作begin......
+INFO     root:basepage.py:233 选择产品页面-点击确定按钮模块-元素('id', 'btOk.SetPayDate')点击:开始时间为2020-06-16 11:23:29.201595，结束时间为2020-06-16 11:23:29.277392,耗时0:00:00.075797
+INFO     root:basepage.py:50 贷款申请的详情页面-输入贷款金额模块:等待('id', 'applAmt.LoanApplyDetailPanel')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-输入贷款金额模块：等待元素可见成功！开始时间为2020-06-16 11:23:30.277725，结束时间为2020-06-16 11:23:30.319604,耗时0:00:00.041879
+INFO     root:basepage.py:97 贷款申请的详情页面-输入贷款金额模块:开始查找元素('id', 'applAmt.LoanApplyDetailPanel')
+INFO     root:basepage.py:109 贷款申请的详情页面-输入贷款金额模块：查找元素成功，开始时间为2020-06-16 11:23:30.319604，结束时间为2020-06-16 11:23:30.327584,耗时0:00:00.007980
+INFO     root:basepage.py:249 贷款申请的详情页面-输入贷款金额#模块:('id', 'applAmt.LoanApplyDetailPanel')元素的输入框值为5678
+INFO     root:basepage.py:262 贷款申请的详情页面-输入贷款金额模块：输入成功！开始时间为2020-06-16 11:23:30.327584，结束时间为2020-06-16 11:23:30.420335,耗时0:00:00.092751
+INFO     root:basepage.py:50 贷款申请的详情页面-输入贷款期限模块:等待('id', 'applPerd.LoanApplyDetailPanel')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-输入贷款期限模块：等待元素可见成功！开始时间为2020-06-16 11:23:30.420335，结束时间为2020-06-16 11:23:30.446266,耗时0:00:00.025931
+INFO     root:basepage.py:97 贷款申请的详情页面-输入贷款期限模块:开始查找元素('id', 'applPerd.LoanApplyDetailPanel')
+INFO     root:basepage.py:109 贷款申请的详情页面-输入贷款期限模块：查找元素成功，开始时间为2020-06-16 11:23:30.446266，结束时间为2020-06-16 11:23:30.452250,耗时0:00:00.005984
+INFO     root:basepage.py:249 贷款申请的详情页面-输入贷款期限#模块:('id', 'applPerd.LoanApplyDetailPanel')元素的输入框值为6
+INFO     root:basepage.py:262 贷款申请的详情页面-输入贷款期限模块：输入成功！开始时间为2020-06-16 11:23:30.452250，结束时间为2020-06-16 11:23:30.505108,耗时0:00:00.052858
+INFO     root:basepage.py:50 贷款申请的详情页面-触发担保方式输入框模块:等待('id', 'mainGurTyp.LoanApplyDetailPanel')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-触发担保方式输入框模块：等待元素可见成功！开始时间为2020-06-16 11:23:30.505108，结束时间为2020-06-16 11:23:30.528047,耗时0:00:00.022939
+INFO     root:basepage.py:97 贷款申请的详情页面-触发担保方式输入框模块:开始查找元素('id', 'mainGurTyp.LoanApplyDetailPanel')
+INFO     root:basepage.py:109 贷款申请的详情页面-触发担保方式输入框模块：查找元素成功，开始时间为2020-06-16 11:23:30.528047，结束时间为2020-06-16 11:23:30.536025,耗时0:00:00.007978
+INFO     root:basepage.py:222 贷款申请的详情页面-触发担保方式输入框模块:对元素('id', 'mainGurTyp.LoanApplyDetailPanel')进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-触发担保方式输入框模块-元素('id', 'mainGurTyp.LoanApplyDetailPanel')点击:开始时间为2020-06-16 11:23:30.536025，结束时间为2020-06-16 11:23:30.636756,耗时0:00:00.100731
+INFO     root:basepage.py:50 贷款申请的详情页面-选择担保方式第一条模块:等待('xpath', "//div[@class='x-layer x-combo-list '][1]//div[2]")元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-选择担保方式第一条模块：等待元素可见成功！开始时间为2020-06-16 11:23:30.637753，结束时间为2020-06-16 11:23:31.171326,耗时0:00:00.533573
+INFO     root:basepage.py:97 贷款申请的详情页面-选择担保方式第一条模块:开始查找元素('xpath', "//div[@class='x-layer x-combo-list '][1]//div[2]")
+INFO     root:basepage.py:109 贷款申请的详情页面-选择担保方式第一条模块：查找元素成功，开始时间为2020-06-16 11:23:31.172324，结束时间为2020-06-16 11:23:31.179305,耗时0:00:00.006981
+INFO     root:basepage.py:222 贷款申请的详情页面-选择担保方式第一条模块:对元素('xpath', "//div[@class='x-layer x-combo-list '][1]//div[2]")进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-选择担保方式第一条模块-元素('xpath', "//div[@class='x-layer x-combo-list '][1]//div[2]")点击:开始时间为2020-06-16 11:23:31.180302，结束时间为2020-06-16 11:23:31.246163,耗时0:00:00.065861
+INFO     root:basepage.py:50 贷款申请的详情页面-触发借款事由的输入框模块:等待('id', 'loanUse.LoanApplyDetailPanel')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-触发借款事由的输入框模块：等待元素可见成功！开始时间为2020-06-16 11:23:31.246163，结束时间为2020-06-16 11:23:31.270062,耗时0:00:00.023899
+INFO     root:basepage.py:97 贷款申请的详情页面-触发借款事由的输入框模块:开始查找元素('id', 'loanUse.LoanApplyDetailPanel')
+INFO     root:basepage.py:109 贷款申请的详情页面-触发借款事由的输入框模块：查找元素成功，开始时间为2020-06-16 11:23:31.270062，结束时间为2020-06-16 11:23:31.278041,耗时0:00:00.007979
+INFO     root:basepage.py:222 贷款申请的详情页面-触发借款事由的输入框模块:对元素('id', 'loanUse.LoanApplyDetailPanel')进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-触发借款事由的输入框模块-元素('id', 'loanUse.LoanApplyDetailPanel')点击:开始时间为2020-06-16 11:23:31.278041，结束时间为2020-06-16 11:23:31.355833,耗时0:00:00.077792
+INFO     root:basepage.py:50 贷款申请的详情页面-选择借款事由的第一条模块:等待('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-选择借款事由的第一条模块：等待元素可见成功！开始时间为2020-06-16 11:23:31.356831，结束时间为2020-06-16 11:23:31.885418,耗时0:00:00.528587
+INFO     root:basepage.py:97 贷款申请的详情页面-选择借款事由的第一条模块:开始查找元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")
+INFO     root:basepage.py:109 贷款申请的详情页面-选择借款事由的第一条模块：查找元素成功，开始时间为2020-06-16 11:23:31.886477，结束时间为2020-06-16 11:23:31.902371,耗时0:00:00.015894
+INFO     root:basepage.py:222 贷款申请的详情页面-选择借款事由的第一条模块:对元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-选择借款事由的第一条模块-元素('xpath', "//div[@class='x-layer x-combo-list '][2]//div[2]")点击:开始时间为2020-06-16 11:23:31.902371，结束时间为2020-06-16 11:23:31.986147,耗时0:00:00.083776
+INFO     root:basepage.py:50 贷款申请的详情页面-触发贷款来源类型的输入框模块:等待('id', 'typeSource.LoanApplyDetailPanel')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-触发贷款来源类型的输入框模块：等待元素可见成功！开始时间为2020-06-16 11:23:31.986147，结束时间为2020-06-16 11:23:32.013075,耗时0:00:00.026928
+INFO     root:basepage.py:97 贷款申请的详情页面-触发贷款来源类型的输入框模块:开始查找元素('id', 'typeSource.LoanApplyDetailPanel')
+INFO     root:basepage.py:109 贷款申请的详情页面-触发贷款来源类型的输入框模块：查找元素成功，开始时间为2020-06-16 11:23:32.013075，结束时间为2020-06-16 11:23:32.020056,耗时0:00:00.006981
+INFO     root:basepage.py:222 贷款申请的详情页面-触发贷款来源类型的输入框模块:对元素('id', 'typeSource.LoanApplyDetailPanel')进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-触发贷款来源类型的输入框模块-元素('id', 'typeSource.LoanApplyDetailPanel')点击:开始时间为2020-06-16 11:23:32.020056，结束时间为2020-06-16 11:23:32.118792,耗时0:00:00.098736
+INFO     root:basepage.py:50 贷款申请的详情页面-选择贷款来源类型的第一条模块:等待('xpath', "//div[@class='x-layer x-combo-list '][3]//div[2]")元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-选择贷款来源类型的第一条模块：等待元素可见成功！开始时间为2020-06-16 11:23:32.119790，结束时间为2020-06-16 11:23:32.653363,耗时0:00:00.533573
+INFO     root:basepage.py:97 贷款申请的详情页面-选择贷款来源类型的第一条模块:开始查找元素('xpath', "//div[@class='x-layer x-combo-list '][3]//div[2]")
+INFO     root:basepage.py:109 贷款申请的详情页面-选择贷款来源类型的第一条模块：查找元素成功，开始时间为2020-06-16 11:23:32.654359，结束时间为2020-06-16 11:23:32.661341,耗时0:00:00.006982
+INFO     root:basepage.py:222 贷款申请的详情页面-选择贷款来源类型的第一条模块:对元素('xpath', "//div[@class='x-layer x-combo-list '][3]//div[2]")进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-选择贷款来源类型的第一条模块-元素('xpath', "//div[@class='x-layer x-combo-list '][3]//div[2]")点击:开始时间为2020-06-16 11:23:32.661341，结束时间为2020-06-16 11:23:32.738136,耗时0:00:00.076795
+INFO     root:basepage.py:50 贷款申请的详情页面-触发贷款来源名称型的输入框模块:等待('id', 'cdeSource.LoanApplyDetailPanel')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-触发贷款来源名称型的输入框模块：等待元素可见成功！开始时间为2020-06-16 11:23:32.739136，结束时间为2020-06-16 11:23:32.763069,耗时0:00:00.023933
+INFO     root:basepage.py:97 贷款申请的详情页面-触发贷款来源名称型的输入框模块:开始查找元素('id', 'cdeSource.LoanApplyDetailPanel')
+INFO     root:basepage.py:109 贷款申请的详情页面-触发贷款来源名称型的输入框模块：查找元素成功，开始时间为2020-06-16 11:23:32.764121，结束时间为2020-06-16 11:23:32.771047,耗时0:00:00.006926
+INFO     root:basepage.py:222 贷款申请的详情页面-触发贷款来源名称型的输入框模块:对元素('id', 'cdeSource.LoanApplyDetailPanel')进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-触发贷款来源名称型的输入框模块-元素('id', 'cdeSource.LoanApplyDetailPanel')点击:开始时间为2020-06-16 11:23:32.772045，结束时间为2020-06-16 11:23:32.882749,耗时0:00:00.110704
+INFO     root:basepage.py:50 贷款申请的详情页面-选择贷款来源名称的第一条模块:等待('xpath', "//div[@class='x-layer x-combo-list '][4]//div[2]")元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-选择贷款来源名称的第一条模块：等待元素可见成功！开始时间为2020-06-16 11:23:32.882749，结束时间为2020-06-16 11:23:33.415325,耗时0:00:00.532576
+INFO     root:basepage.py:97 贷款申请的详情页面-选择贷款来源名称的第一条模块:开始查找元素('xpath', "//div[@class='x-layer x-combo-list '][4]//div[2]")
+INFO     root:basepage.py:109 贷款申请的详情页面-选择贷款来源名称的第一条模块：查找元素成功，开始时间为2020-06-16 11:23:33.415325，结束时间为2020-06-16 11:23:33.424302,耗时0:00:00.008977
+INFO     root:basepage.py:222 贷款申请的详情页面-选择贷款来源名称的第一条模块:对元素('xpath', "//div[@class='x-layer x-combo-list '][4]//div[2]")进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-选择贷款来源名称的第一条模块-元素('xpath', "//div[@class='x-layer x-combo-list '][4]//div[2]")点击:开始时间为2020-06-16 11:23:33.425299，结束时间为2020-06-16 11:23:33.492119,耗时0:00:00.066820
+INFO     root:basepage.py:50 贷款申请的详情页面-贷款描述模块:等待('xpath', "//textarea[@name='applRemark']")元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-贷款描述模块：等待元素可见成功！开始时间为2020-06-16 11:23:33.492119，结束时间为2020-06-16 11:23:33.518050,耗时0:00:00.025931
+INFO     root:basepage.py:97 贷款申请的详情页面-贷款描述模块:开始查找元素('xpath', "//textarea[@name='applRemark']")
+INFO     root:basepage.py:109 贷款申请的详情页面-贷款描述模块：查找元素成功，开始时间为2020-06-16 11:23:33.518050，结束时间为2020-06-16 11:23:33.527026,耗时0:00:00.008976
+INFO     root:basepage.py:249 贷款申请的详情页面-贷款描述#模块:('xpath', "//textarea[@name='applRemark']")元素的输入框值为备注哈哈哈哈
+INFO     root:basepage.py:262 贷款申请的详情页面-贷款描述模块：输入成功！开始时间为2020-06-16 11:23:33.527026，结束时间为2020-06-16 11:23:33.612796,耗时0:00:00.085770
+INFO     root:basepage.py:50 贷款申请的详情页面-点击保存按钮模块:等待('id', 'btnSave')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-点击保存按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:33.612796，结束时间为2020-06-16 11:23:33.636732,耗时0:00:00.023936
+INFO     root:basepage.py:97 贷款申请的详情页面-点击保存按钮模块:开始查找元素('id', 'btnSave')
+INFO     root:basepage.py:109 贷款申请的详情页面-点击保存按钮模块：查找元素成功，开始时间为2020-06-16 11:23:33.636732，结束时间为2020-06-16 11:23:33.643714,耗时0:00:00.006982
+INFO     root:basepage.py:222 贷款申请的详情页面-点击保存按钮模块:对元素('id', 'btnSave')进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-点击保存按钮模块-元素('id', 'btnSave')点击:开始时间为2020-06-16 11:23:33.643714，结束时间为2020-06-16 11:23:33.745441,耗时0:00:00.101727
+INFO     root:basepage.py:73 贷款申请的详情页面-保存成功的提示框内容模块:等待('xpath', '//span[text()="保存成功"]')元素存在.
+INFO     root:basepage.py:85 贷款申请的详情页面-保存成功的提示框内容模块：等待存在成功！开始时间为2020-06-16 11:23:33.746438，结束时间为2020-06-16 11:23:34.277020,耗时0:00:00.530582
+INFO     root:basepage.py:97 贷款申请的详情页面-保存成功的提示框内容模块:开始查找元素('xpath', '//span[text()="保存成功"]')
+INFO     root:basepage.py:109 贷款申请的详情页面-保存成功的提示框内容模块：查找元素成功，开始时间为2020-06-16 11:23:34.278017，结束时间为2020-06-16 11:23:34.296002,耗时0:00:00.017985
+INFO     root:basepage.py:278 贷款申请的详情页面-保存成功的提示框内容模块:获取('xpath', '//span[text()="保存成功"]')元素的文本内容开始了......
+INFO     root:basepage.py:291 获取成功，开始时间为2020-06-16 11:23:34.296002，结束时间为2020-06-16 11:23:34.311925,耗时0:00:00.015923
+INFO     root:basepage.py:50 贷款申请的详情页面-点击确定按钮模块:等待('xpath', '//button[text()="确定"]')元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-点击确定按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:35.312259，结束时间为2020-06-16 11:23:35.340176,耗时0:00:00.027917
+INFO     root:basepage.py:97 贷款申请的详情页面-点击确定按钮模块:开始查找元素('xpath', '//button[text()="确定"]')
+INFO     root:basepage.py:109 贷款申请的详情页面-点击确定按钮模块：查找元素成功，开始时间为2020-06-16 11:23:35.340176，结束时间为2020-06-16 11:23:35.347157,耗时0:00:00.006981
+INFO     root:basepage.py:222 贷款申请的详情页面-点击确定按钮模块:对元素('xpath', '//button[text()="确定"]')进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-点击确定按钮模块-元素('xpath', '//button[text()="确定"]')点击:开始时间为2020-06-16 11:23:35.348156，结束时间为2020-06-16 11:23:35.420959,耗时0:00:00.072803
+INFO     root:basepage.py:50 贷款申请的详情页面-点击提交按钮模块:等待('xpath', "//table[@id='btnSubmit']//button[text()='提交']")元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-点击提交按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:35.921620，结束时间为2020-06-16 11:23:36.022351,耗时0:00:00.100731
+INFO     root:basepage.py:97 贷款申请的详情页面-点击提交按钮模块:开始查找元素('xpath', "//table[@id='btnSubmit']//button[text()='提交']")
+INFO     root:basepage.py:109 贷款申请的详情页面-点击提交按钮模块：查找元素成功，开始时间为2020-06-16 11:23:36.023350，结束时间为2020-06-16 11:23:36.036314,耗时0:00:00.012964
+INFO     root:basepage.py:222 贷款申请的详情页面-点击提交按钮模块:对元素('xpath', "//table[@id='btnSubmit']//button[text()='提交']")进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-点击提交按钮模块-元素('xpath', "//table[@id='btnSubmit']//button[text()='提交']")点击:开始时间为2020-06-16 11:23:36.036314，结束时间为2020-06-16 11:23:36.138043,耗时0:00:00.101729
+INFO     root:basepage.py:50 贷款申请的详情页面-点击确定按钮以便进入下一个调查录入页面模块:等待('xpath', "//button[@class=' x-btn-text' and text()='确定']")元素可见.
+INFO     root:basepage.py:62 贷款申请的详情页面-点击确定按钮以便进入下一个调查录入页面模块：等待元素可见成功！开始时间为2020-06-16 11:23:36.138043，结束时间为2020-06-16 11:23:36.681589,耗时0:00:00.543546
+INFO     root:basepage.py:97 贷款申请的详情页面-点击确定按钮以便进入下一个调查录入页面模块:开始查找元素('xpath', "//button[@class=' x-btn-text' and text()='确定']")
+INFO     root:basepage.py:109 贷款申请的详情页面-点击确定按钮以便进入下一个调查录入页面模块：查找元素成功，开始时间为2020-06-16 11:23:36.682586，结束时间为2020-06-16 11:23:36.692602,耗时0:00:00.010016
+INFO     root:basepage.py:222 贷款申请的详情页面-点击确定按钮以便进入下一个调查录入页面模块:对元素('xpath', "//button[@class=' x-btn-text' and text()='确定']")进行点击操作begin......
+INFO     root:basepage.py:233 贷款申请的详情页面-点击确定按钮以便进入下一个调查录入页面模块-元素('xpath', "//button[@class=' x-btn-text' and text()='确定']")点击:开始时间为2020-06-16 11:23:36.692602，结束时间为2020-06-16 11:23:36.774340,耗时0:00:00.081738
+INFO     root:basepage.py:50 调查录入-贷款基本信息-起息日模块:等待('id', 'intStartDt.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-贷款基本信息-起息日模块：等待元素可见成功！开始时间为2020-06-16 11:23:39.775317，结束时间为2020-06-16 11:23:39.810220,耗时0:00:00.034903
+INFO     root:basepage.py:97 调查录入-贷款基本信息-起息日模块:开始查找元素('id', 'intStartDt.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-贷款基本信息-起息日模块：查找元素成功，开始时间为2020-06-16 11:23:39.810220，结束时间为2020-06-16 11:23:39.818199,耗时0:00:00.007979
+INFO     root:basepage.py:158 调查录入-贷款基本信息-起息日模块：滚动到元素可见位置begin......
+INFO     root:basepage.py:174 #调查录入-贷款基本信息-起息日#模块：JS方式输入日期成功，开始时间为2020-06-16 11:23:39.818199，结束时间为2020-06-16 11:23:39.826177,耗时0:00:00.007978
+INFO     root:basepage.py:50 调查录入-贷款基本信息-到期日模块:等待('id', 'lastDueDt.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-贷款基本信息-到期日模块：等待元素可见成功！开始时间为2020-06-16 11:23:39.827175，结束时间为2020-06-16 11:23:39.849117,耗时0:00:00.021942
+INFO     root:basepage.py:97 调查录入-贷款基本信息-到期日模块:开始查找元素('id', 'lastDueDt.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-贷款基本信息-到期日模块：查找元素成功，开始时间为2020-06-16 11:23:39.849117，结束时间为2020-06-16 11:23:39.856100,耗时0:00:00.006983
+INFO     root:basepage.py:158 调查录入-贷款基本信息-到期日模块：滚动到元素可见位置begin......
+INFO     root:basepage.py:174 #调查录入-贷款基本信息-到期日#模块：JS方式输入日期成功，开始时间为2020-06-16 11:23:39.857096，结束时间为2020-06-16 11:23:39.861084,耗时0:00:00.003988
+INFO     root:basepage.py:50 调查录入-贷款基本信息-点击贷款对象按钮模块:等待('xpath', "//input[@id='loanObj.LoanDataInputPanel']")元素可见.
+INFO     root:basepage.py:62 调查录入-贷款基本信息-点击贷款对象按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:39.862083，结束时间为2020-06-16 11:23:39.885021,耗时0:00:00.022938
+INFO     root:basepage.py:97 调查录入-贷款基本信息-点击贷款对象按钮模块:开始查找元素('xpath', "//input[@id='loanObj.LoanDataInputPanel']")
+INFO     root:basepage.py:109 调查录入-贷款基本信息-点击贷款对象按钮模块：查找元素成功，开始时间为2020-06-16 11:23:39.886056，结束时间为2020-06-16 11:23:39.892999,耗时0:00:00.006943
+INFO     root:basepage.py:222 调查录入-贷款基本信息-点击贷款对象按钮模块:对元素('xpath', "//input[@id='loanObj.LoanDataInputPanel']")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-贷款基本信息-点击贷款对象按钮模块-元素('xpath', "//input[@id='loanObj.LoanDataInputPanel']")点击:开始时间为2020-06-16 11:23:39.892999，结束时间为2020-06-16 11:23:39.976815,耗时0:00:00.083816
+INFO     root:basepage.py:50 调查录入-贷款基本信息-选择农户模块:等待('xpath', "//div[@class='x-layer x-combo-list '][1]//div[2]")元素可见.
+INFO     root:basepage.py:62 调查录入-贷款基本信息-选择农户模块：等待元素可见成功！开始时间为2020-06-16 11:23:39.976815，结束时间为2020-06-16 11:23:40.523315,耗时0:00:00.546500
+INFO     root:basepage.py:97 调查录入-贷款基本信息-选择农户模块:开始查找元素('xpath', "//div[@class='x-layer x-combo-list '][1]//div[2]")
+INFO     root:basepage.py:109 调查录入-贷款基本信息-选择农户模块：查找元素成功，开始时间为2020-06-16 11:23:40.524357，结束时间为2020-06-16 11:23:40.534284,耗时0:00:00.009927
+INFO     root:basepage.py:222 调查录入-贷款基本信息-选择农户模块:对元素('xpath', "//div[@class='x-layer x-combo-list '][1]//div[2]")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-贷款基本信息-选择农户模块-元素('xpath', "//div[@class='x-layer x-combo-list '][1]//div[2]")点击:开始时间为2020-06-16 11:23:40.534284，结束时间为2020-06-16 11:23:40.630028,耗时0:00:00.095744
+INFO     root:basepage.py:50 调查录入-贷款基本信息-点击资金投向模块:等待('xpath', "//button[text()='选择']")元素可见.
+INFO     root:basepage.py:62 调查录入-贷款基本信息-点击资金投向模块：等待元素可见成功！开始时间为2020-06-16 11:23:40.630028，结束时间为2020-06-16 11:23:40.662940,耗时0:00:00.032912
+INFO     root:basepage.py:97 调查录入-贷款基本信息-点击资金投向模块:开始查找元素('xpath', "//button[text()='选择']")
+INFO     root:basepage.py:109 调查录入-贷款基本信息-点击资金投向模块：查找元素成功，开始时间为2020-06-16 11:23:40.662940，结束时间为2020-06-16 11:23:40.678897,耗时0:00:00.015957
+INFO     root:basepage.py:222 调查录入-贷款基本信息-点击资金投向模块:对元素('xpath', "//button[text()='选择']")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-贷款基本信息-点击资金投向模块-元素('xpath', "//button[text()='选择']")点击:开始时间为2020-06-16 11:23:40.678897，结束时间为2020-06-16 11:23:40.809549,耗时0:00:00.130652
+INFO     root:basepage.py:50 调查录入-贷款基本信息-资金投向-查询按钮模块:等待('xpath', "//button[text()='查询']")元素可见.
+INFO     root:basepage.py:62 调查录入-贷款基本信息-资金投向-查询按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:40.986077，结束时间为2020-06-16 11:23:41.013002,耗时0:00:00.026925
+INFO     root:basepage.py:97 调查录入-贷款基本信息-资金投向-查询按钮模块:开始查找元素('xpath', "//button[text()='查询']")
+INFO     root:basepage.py:109 调查录入-贷款基本信息-资金投向-查询按钮模块：查找元素成功，开始时间为2020-06-16 11:23:41.014000，结束时间为2020-06-16 11:23:41.021980,耗时0:00:00.007980
+INFO     root:basepage.py:222 调查录入-贷款基本信息-资金投向-查询按钮模块:对元素('xpath', "//button[text()='查询']")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-贷款基本信息-资金投向-查询按钮模块-元素('xpath', "//button[text()='查询']")点击:开始时间为2020-06-16 11:23:41.021980，结束时间为2020-06-16 11:23:41.152632,耗时0:00:00.130652
+INFO     root:basepage.py:50 调查录入-贷款基本信息-资金投向-查询按钮-选择第一个模块:等待('xpath', "//div[@class='x-grid3-body']/div[1]")元素可见.
+INFO     root:basepage.py:62 调查录入-贷款基本信息-资金投向-查询按钮-选择第一个模块：等待元素可见成功！开始时间为2020-06-16 11:23:41.152632，结束时间为2020-06-16 11:23:41.687200,耗时0:00:00.534568
+INFO     root:basepage.py:97 调查录入-贷款基本信息-资金投向-查询按钮-选择第一个模块:开始查找元素('xpath', "//div[@class='x-grid3-body']/div[1]")
+INFO     root:basepage.py:109 调查录入-贷款基本信息-资金投向-查询按钮-选择第一个模块：查找元素成功，开始时间为2020-06-16 11:23:41.687200，结束时间为2020-06-16 11:23:41.696175,耗时0:00:00.008975
+INFO     root:basepage.py:222 调查录入-贷款基本信息-资金投向-查询按钮-选择第一个模块:对元素('xpath', "//div[@class='x-grid3-body']/div[1]")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-贷款基本信息-资金投向-查询按钮-选择第一个模块-元素('xpath', "//div[@class='x-grid3-body']/div[1]")点击:开始时间为2020-06-16 11:23:41.696175，结束时间为2020-06-16 11:23:41.802890,耗时0:00:00.106715
+INFO     root:basepage.py:50 调查录入-贷款基本信息-资金投向-确认按钮滚到可视区域模块:等待('xpath', "//table[@id='btnSubmit.EncodingListQuery']//button[text()='确认']")元素可见.
+INFO     root:basepage.py:62 调查录入-贷款基本信息-资金投向-确认按钮滚到可视区域模块：等待元素可见成功！开始时间为2020-06-16 11:23:41.805886，结束时间为2020-06-16 11:23:41.831815,耗时0:00:00.025929
+INFO     root:basepage.py:97 调查录入-贷款基本信息-资金投向-确认按钮滚到可视区域模块:开始查找元素('xpath', "//table[@id='btnSubmit.EncodingListQuery']//button[text()='确认']")
+INFO     root:basepage.py:109 调查录入-贷款基本信息-资金投向-确认按钮滚到可视区域模块：查找元素成功，开始时间为2020-06-16 11:23:41.831815，结束时间为2020-06-16 11:23:41.841788,耗时0:00:00.009973
+INFO     root:basepage.py:140 调查录入-贷款基本信息-资金投向-确认按钮滚到可视区域模块：滚动到元素可见位置begin......
+INFO     root:basepage.py:152 调查录入-贷款基本信息-资金投向-确认按钮滚到可视区域模块：滚动到最底部成功，开始时间为2020-06-16 11:23:41.841788，结束时间为2020-06-16 11:23:41.845777,耗时0:00:00.003989
+INFO     root:basepage.py:50 调查录入-贷款基本信息-资金投向-查询按钮-选择第一个-确认模块:等待('xpath', "//table[@id='btnSubmit.EncodingListQuery']//button[text()='确认']")元素可见.
+INFO     root:basepage.py:62 调查录入-贷款基本信息-资金投向-查询按钮-选择第一个-确认模块：等待元素可见成功！开始时间为2020-06-16 11:23:41.845777，结束时间为2020-06-16 11:23:41.865723,耗时0:00:00.019946
+INFO     root:basepage.py:97 调查录入-贷款基本信息-资金投向-查询按钮-选择第一个-确认模块:开始查找元素('xpath', "//table[@id='btnSubmit.EncodingListQuery']//button[text()='确认']")
+INFO     root:basepage.py:109 调查录入-贷款基本信息-资金投向-查询按钮-选择第一个-确认模块：查找元素成功，开始时间为2020-06-16 11:23:41.866752，结束时间为2020-06-16 11:23:41.873702,耗时0:00:00.006950
+INFO     root:basepage.py:222 调查录入-贷款基本信息-资金投向-查询按钮-选择第一个-确认模块:对元素('xpath', "//table[@id='btnSubmit.EncodingListQuery']//button[text()='确认']")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-贷款基本信息-资金投向-查询按钮-选择第一个-确认模块-元素('xpath', "//table[@id='btnSubmit.EncodingListQuery']//button[text()='确认']")点击:开始时间为2020-06-16 11:23:41.874699，结束时间为2020-06-16 11:23:41.945541,耗时0:00:00.070842
+INFO     root:basepage.py:50 调查录入-贷款基本信息-点击贷款品种模块:等待('id', 'prdctCde.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-贷款基本信息-点击贷款品种模块：等待元素可见成功！开始时间为2020-06-16 11:23:41.945541，结束时间为2020-06-16 11:23:41.976463,耗时0:00:00.030922
+INFO     root:basepage.py:97 调查录入-贷款基本信息-点击贷款品种模块:开始查找元素('id', 'prdctCde.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-贷款基本信息-点击贷款品种模块：查找元素成功，开始时间为2020-06-16 11:23:41.976463，结束时间为2020-06-16 11:23:41.984404,耗时0:00:00.007941
+INFO     root:basepage.py:222 调查录入-贷款基本信息-点击贷款品种模块:对元素('id', 'prdctCde.LoanDataInputPanel')进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-贷款基本信息-点击贷款品种模块-元素('id', 'prdctCde.LoanDataInputPanel')点击:开始时间为2020-06-16 11:23:41.985403，结束时间为2020-06-16 11:23:42.064192,耗时0:00:00.078789
+INFO     root:basepage.py:50 调查录入-贷款基本信息-贷款品种-选择短期-信用模块:等待('xpath', "//div[text()='农户贷款短期-信用']")元素可见.
+INFO     root:basepage.py:62 调查录入-贷款基本信息-贷款品种-选择短期-信用模块：等待元素可见成功！开始时间为2020-06-16 11:23:42.064192，结束时间为2020-06-16 11:23:42.604747,耗时0:00:00.540555
+INFO     root:basepage.py:97 调查录入-贷款基本信息-贷款品种-选择短期-信用模块:开始查找元素('xpath', "//div[text()='农户贷款短期-信用']")
+INFO     root:basepage.py:109 调查录入-贷款基本信息-贷款品种-选择短期-信用模块：查找元素成功，开始时间为2020-06-16 11:23:42.604747，结束时间为2020-06-16 11:23:42.612725,耗时0:00:00.007978
+INFO     root:basepage.py:222 调查录入-贷款基本信息-贷款品种-选择短期-信用模块:对元素('xpath', "//div[text()='农户贷款短期-信用']")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-贷款基本信息-贷款品种-选择短期-信用模块-元素('xpath', "//div[text()='农户贷款短期-信用']")点击:开始时间为2020-06-16 11:23:42.612725，结束时间为2020-06-16 11:23:42.689519,耗时0:00:00.076794
+INFO     root:basepage.py:50 调查录入-贷款基本信息-点击贷款合同号模块:等待('id', 'crdtNo.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-贷款基本信息-点击贷款合同号模块：等待元素可见成功！开始时间为2020-06-16 11:23:42.690518，结束时间为2020-06-16 11:23:42.721434,耗时0:00:00.030916
+INFO     root:basepage.py:97 调查录入-贷款基本信息-点击贷款合同号模块:开始查找元素('id', 'crdtNo.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-贷款基本信息-点击贷款合同号模块：查找元素成功，开始时间为2020-06-16 11:23:42.721434，结束时间为2020-06-16 11:23:42.731407,耗时0:00:00.009973
+INFO     root:basepage.py:222 调查录入-贷款基本信息-点击贷款合同号模块:对元素('id', 'crdtNo.LoanDataInputPanel')进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-贷款基本信息-点击贷款合同号模块-元素('id', 'crdtNo.LoanDataInputPanel')点击:开始时间为2020-06-16 11:23:42.731407，结束时间为2020-06-16 11:23:42.858069,耗时0:00:00.126662
+INFO     root:basepage.py:50 调查录入-贷款基本信息-选择第一个贷款合同号模块:等待('xpath', "//div[@class='x-layer x-combo-list '][3]//div[@class='x-grid3-body']/div[1]")元素可见.
+INFO     root:basepage.py:62 调查录入-贷款基本信息-选择第一个贷款合同号模块：等待元素可见成功！开始时间为2020-06-16 11:23:42.859066，结束时间为2020-06-16 11:23:43.430537,耗时0:00:00.571471
+INFO     root:basepage.py:97 调查录入-贷款基本信息-选择第一个贷款合同号模块:开始查找元素('xpath', "//div[@class='x-layer x-combo-list '][3]//div[@class='x-grid3-body']/div[1]")
+INFO     root:basepage.py:109 调查录入-贷款基本信息-选择第一个贷款合同号模块：查找元素成功，开始时间为2020-06-16 11:23:43.431600，结束时间为2020-06-16 11:23:43.467440,耗时0:00:00.035840
+INFO     root:basepage.py:180 调查录入-贷款基本信息-选择第一个贷款合同号模块：对元素('xpath', "//div[@class='x-layer x-combo-list '][3]//div[@class='x-grid3-body']/div[1]")进行双击操作......
+INFO     root:basepage.py:191 调查录入-贷款基本信息-选择第一个贷款合同号模块：鼠标双击元素成功，开始时间为2020-06-16 11:23:43.468438，结束时间为2020-06-16 11:23:44.054868,耗时0:00:00.586430
+INFO     root:basepage.py:50 调查录入-贷款基本信息-本金宽限期模块:等待('id', 'gracePerdP.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-贷款基本信息-本金宽限期模块：等待元素可见成功！开始时间为2020-06-16 11:23:44.054868，结束时间为2020-06-16 11:23:44.080799,耗时0:00:00.025931
+INFO     root:basepage.py:97 调查录入-贷款基本信息-本金宽限期模块:开始查找元素('id', 'gracePerdP.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-贷款基本信息-本金宽限期模块：查找元素成功，开始时间为2020-06-16 11:23:44.081798，结束时间为2020-06-16 11:23:44.088776,耗时0:00:00.006978
+INFO     root:basepage.py:249 调查录入-贷款基本信息-本金宽限期#模块:('id', 'gracePerdP.LoanDataInputPanel')元素的输入框值为3
+INFO     root:basepage.py:262 调查录入-贷款基本信息-本金宽限期模块：输入成功！开始时间为2020-06-16 11:23:44.089775，结束时间为2020-06-16 11:23:44.144627,耗时0:00:00.054852
+INFO     root:basepage.py:50 调查录入-贷款基本信息-利息宽限期模块:等待('id', 'gracePerdI.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-贷款基本信息-利息宽限期模块：等待元素可见成功！开始时间为2020-06-16 11:23:44.145656，结束时间为2020-06-16 11:23:44.167565,耗时0:00:00.021909
+INFO     root:basepage.py:97 调查录入-贷款基本信息-利息宽限期模块:开始查找元素('id', 'gracePerdI.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-贷款基本信息-利息宽限期模块：查找元素成功，开始时间为2020-06-16 11:23:44.167565，结束时间为2020-06-16 11:23:44.174549,耗时0:00:00.006984
+INFO     root:basepage.py:249 调查录入-贷款基本信息-利息宽限期#模块:('id', 'gracePerdI.LoanDataInputPanel')元素的输入框值为3
+INFO     root:basepage.py:262 调查录入-贷款基本信息-利息宽限期模块：输入成功！开始时间为2020-06-16 11:23:44.174549，结束时间为2020-06-16 11:23:44.232452,耗时0:00:00.057903
+INFO     root:basepage.py:50 调查录入-还款属性-点击还款方式模块:等待('id', 'repayTyp.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-还款属性-点击还款方式模块：等待元素可见成功！开始时间为2020-06-16 11:23:44.232452，结束时间为2020-06-16 11:23:44.253395,耗时0:00:00.020943
+INFO     root:basepage.py:97 调查录入-还款属性-点击还款方式模块:开始查找元素('id', 'repayTyp.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-还款属性-点击还款方式模块：查找元素成功，开始时间为2020-06-16 11:23:44.253395，结束时间为2020-06-16 11:23:44.261373,耗时0:00:00.007978
+INFO     root:basepage.py:222 调查录入-还款属性-点击还款方式模块:对元素('id', 'repayTyp.LoanDataInputPanel')进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-还款属性-点击还款方式模块-元素('id', 'repayTyp.LoanDataInputPanel')点击:开始时间为2020-06-16 11:23:44.261373，结束时间为2020-06-16 11:23:44.343664,耗时0:00:00.082291
+INFO     root:basepage.py:50 调查录入-还款属性-按期还息到期还本模块:等待('xpath', "//div[text()='按期还息到期还本']")元素可见.
+INFO     root:basepage.py:62 调查录入-还款属性-按期还息到期还本模块：等待元素可见成功！开始时间为2020-06-16 11:23:44.343664，结束时间为2020-06-16 11:23:44.878741,耗时0:00:00.535077
+INFO     root:basepage.py:97 调查录入-还款属性-按期还息到期还本模块:开始查找元素('xpath', "//div[text()='按期还息到期还本']")
+INFO     root:basepage.py:109 调查录入-还款属性-按期还息到期还本模块：查找元素成功，开始时间为2020-06-16 11:23:44.878741，结束时间为2020-06-16 11:23:44.887716,耗时0:00:00.008975
+INFO     root:basepage.py:222 调查录入-还款属性-按期还息到期还本模块:对元素('xpath', "//div[text()='按期还息到期还本']")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-还款属性-按期还息到期还本模块-元素('xpath', "//div[text()='按期还息到期还本']")点击:开始时间为2020-06-16 11:23:44.888714，结束时间为2020-06-16 11:23:44.958528,耗时0:00:00.069814
+INFO     root:basepage.py:50 调查录入-点击约定还款日模块:等待('id', 'dueDay.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-点击约定还款日模块：等待元素可见成功！开始时间为2020-06-16 11:23:44.958528，结束时间为2020-06-16 11:23:44.988449,耗时0:00:00.029921
+INFO     root:basepage.py:97 调查录入-点击约定还款日模块:开始查找元素('id', 'dueDay.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-点击约定还款日模块：查找元素成功，开始时间为2020-06-16 11:23:44.988449，结束时间为2020-06-16 11:23:44.999418,耗时0:00:00.010969
+INFO     root:basepage.py:222 调查录入-点击约定还款日模块:对元素('id', 'dueDay.LoanDataInputPanel')进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-点击约定还款日模块-元素('id', 'dueDay.LoanDataInputPanel')点击:开始时间为2020-06-16 11:23:45.000417，结束时间为2020-06-16 11:23:45.101147,耗时0:00:00.100730
+INFO     root:basepage.py:50 调查录入-还款属性-点击基础利率模式模块:等待('id', 'rateMode.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-还款属性-点击基础利率模式模块：等待元素可见成功！开始时间为2020-06-16 11:23:45.102144，结束时间为2020-06-16 11:23:45.127108,耗时0:00:00.024964
+INFO     root:basepage.py:97 调查录入-还款属性-点击基础利率模式模块:开始查找元素('id', 'rateMode.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-还款属性-点击基础利率模式模块：查找元素成功，开始时间为2020-06-16 11:23:45.127108，结束时间为2020-06-16 11:23:45.134059,耗时0:00:00.006951
+INFO     root:basepage.py:222 调查录入-还款属性-点击基础利率模式模块:对元素('id', 'rateMode.LoanDataInputPanel')进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-还款属性-点击基础利率模式模块-元素('id', 'rateMode.LoanDataInputPanel')点击:开始时间为2020-06-16 11:23:45.134059，结束时间为2020-06-16 11:23:45.219828,耗时0:00:00.085769
+INFO     root:basepage.py:50 调查录入-还款属性-清空约定还款日模块:等待('id', 'dueDay.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-还款属性-清空约定还款日模块：等待元素可见成功！开始时间为2020-06-16 11:23:45.219828，结束时间为2020-06-16 11:23:45.244763,耗时0:00:00.024935
+INFO     root:basepage.py:97 调查录入-还款属性-清空约定还款日模块:开始查找元素('id', 'dueDay.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-还款属性-清空约定还款日模块：查找元素成功，开始时间为2020-06-16 11:23:45.244763，结束时间为2020-06-16 11:23:45.252741,耗时0:00:00.007978
+INFO     root:basepage.py:402 调查录入-还款属性-清空约定还款日模块:对元素('id', 'dueDay.LoanDataInputPanel')进行点击操作开始......
+INFO     root:basepage.py:413 调查录入-还款属性-清空约定还款日模块#元素('id', 'dueDay.LoanDataInputPanel')清空操作:开始时间为2020-06-16 11:23:45.252741，结束时间为2020-06-16 11:23:45.277675,耗时0:00:00.024934
+INFO     root:basepage.py:50 调查录入-还款属性-输入约定还款日模块:等待('id', 'dueDay.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-还款属性-输入约定还款日模块：等待元素可见成功！开始时间为2020-06-16 11:23:45.277675，结束时间为2020-06-16 11:23:45.301631,耗时0:00:00.023956
+INFO     root:basepage.py:97 调查录入-还款属性-输入约定还款日模块:开始查找元素('id', 'dueDay.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-还款属性-输入约定还款日模块：查找元素成功，开始时间为2020-06-16 11:23:45.301631，结束时间为2020-06-16 11:23:45.308592,耗时0:00:00.006961
+INFO     root:basepage.py:249 调查录入-还款属性-输入约定还款日#模块:('id', 'dueDay.LoanDataInputPanel')元素的输入框值为16
+INFO     root:basepage.py:262 调查录入-还款属性-输入约定还款日模块：输入成功！开始时间为2020-06-16 11:23:45.309623，结束时间为2020-06-16 11:23:45.373418,耗时0:00:00.063795
+INFO     root:basepage.py:50 调查录入-还款属性-基础利率模式：可调整利率模块:等待('xpath', "//div[text()='可调整利率']")元素可见.
+INFO     root:basepage.py:62 调查录入-还款属性-基础利率模式：可调整利率模块：等待元素可见成功！开始时间为2020-06-16 11:23:45.373418，结束时间为2020-06-16 11:23:45.395360,耗时0:00:00.021942
+INFO     root:basepage.py:97 调查录入-还款属性-基础利率模式：可调整利率模块:开始查找元素('xpath', "//div[text()='可调整利率']")
+INFO     root:basepage.py:109 调查录入-还款属性-基础利率模式：可调整利率模块：查找元素成功，开始时间为2020-06-16 11:23:45.395360，结束时间为2020-06-16 11:23:45.404336,耗时0:00:00.008976
+INFO     root:basepage.py:222 调查录入-还款属性-基础利率模式：可调整利率模块:对元素('xpath', "//div[text()='可调整利率']")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-还款属性-基础利率模式：可调整利率模块-元素('xpath', "//div[text()='可调整利率']")点击:开始时间为2020-06-16 11:23:45.404336，结束时间为2020-06-16 11:23:45.476144,耗时0:00:00.071808
+INFO     root:basepage.py:50 调查录入-还款属性-输入执行年利率模块:等待('id', 'intRate.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-还款属性-输入执行年利率模块：等待元素可见成功！开始时间为2020-06-16 11:23:45.477141，结束时间为2020-06-16 11:23:45.507063,耗时0:00:00.029922
+INFO     root:basepage.py:97 调查录入-还款属性-输入执行年利率模块:开始查找元素('id', 'intRate.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-还款属性-输入执行年利率模块：查找元素成功，开始时间为2020-06-16 11:23:45.508059，结束时间为2020-06-16 11:23:45.515043,耗时0:00:00.006984
+INFO     root:basepage.py:249 调查录入-还款属性-输入执行年利率#模块:('id', 'intRate.LoanDataInputPanel')元素的输入框值为8
+INFO     root:basepage.py:262 调查录入-还款属性-输入执行年利率模块：输入成功！开始时间为2020-06-16 11:23:45.515043，结束时间为2020-06-16 11:23:45.578868,耗时0:00:00.063825
+INFO     root:basepage.py:50 调查录入-还款属性-点击罚息利率下拉框模块:等待('id', 'odIntRateTyp.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-还款属性-点击罚息利率下拉框模块：等待元素可见成功！开始时间为2020-06-16 11:23:45.579866，结束时间为2020-06-16 11:23:45.603802,耗时0:00:00.023936
+INFO     root:basepage.py:97 调查录入-还款属性-点击罚息利率下拉框模块:开始查找元素('id', 'odIntRateTyp.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-还款属性-点击罚息利率下拉框模块：查找元素成功，开始时间为2020-06-16 11:23:45.603802，结束时间为2020-06-16 11:23:45.611780,耗时0:00:00.007978
+INFO     root:basepage.py:222 调查录入-还款属性-点击罚息利率下拉框模块:对元素('id', 'odIntRateTyp.LoanDataInputPanel')进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-还款属性-点击罚息利率下拉框模块-元素('id', 'odIntRateTyp.LoanDataInputPanel')点击:开始时间为2020-06-16 11:23:45.612778，结束时间为2020-06-16 11:23:45.724479,耗时0:00:00.111701
+INFO     root:basepage.py:50 调查录入-还款属性-罚息利率:按固定值模块:等待('xpath', "//div[text()='按固定值']")元素可见.
+INFO     root:basepage.py:62 调查录入-还款属性-罚息利率:按固定值模块：等待元素可见成功！开始时间为2020-06-16 11:23:45.725478，结束时间为2020-06-16 11:23:46.261359,耗时0:00:00.535881
+INFO     root:basepage.py:97 调查录入-还款属性-罚息利率:按固定值模块:开始查找元素('xpath', "//div[text()='按固定值']")
+INFO     root:basepage.py:109 调查录入-还款属性-罚息利率:按固定值模块：查找元素成功，开始时间为2020-06-16 11:23:46.261359，结束时间为2020-06-16 11:23:46.270335,耗时0:00:00.008976
+INFO     root:basepage.py:222 调查录入-还款属性-罚息利率:按固定值模块:对元素('xpath', "//div[text()='按固定值']")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-还款属性-罚息利率:按固定值模块-元素('xpath', "//div[text()='按固定值']")点击:开始时间为2020-06-16 11:23:46.270335，结束时间为2020-06-16 11:23:46.339153,耗时0:00:00.068818
+INFO     root:basepage.py:50 调查录入-还款属性-输入年化收益率模块:等待('id', 'odIntRatePrcp.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-还款属性-输入年化收益率模块：等待元素可见成功！开始时间为2020-06-16 11:23:46.340149，结束时间为2020-06-16 11:23:46.374058,耗时0:00:00.033909
+INFO     root:basepage.py:97 调查录入-还款属性-输入年化收益率模块:开始查找元素('id', 'odIntRatePrcp.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-还款属性-输入年化收益率模块：查找元素成功，开始时间为2020-06-16 11:23:46.374058，结束时间为2020-06-16 11:23:46.383034,耗时0:00:00.008976
+INFO     root:basepage.py:249 调查录入-还款属性-输入年化收益率#模块:('id', 'odIntRatePrcp.LoanDataInputPanel')元素的输入框值为7
+INFO     root:basepage.py:262 调查录入-还款属性-输入年化收益率模块：输入成功！开始时间为2020-06-16 11:23:46.384032，结束时间为2020-06-16 11:23:46.442874,耗时0:00:00.058842
+INFO     root:basepage.py:50 调查录入-业务性质-点击业务性质下拉框模块:等待('id', 'businessNature.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-业务性质-点击业务性质下拉框模块：等待元素可见成功！开始时间为2020-06-16 11:23:46.442874，结束时间为2020-06-16 11:23:46.465813,耗时0:00:00.022939
+INFO     root:basepage.py:97 调查录入-业务性质-点击业务性质下拉框模块:开始查找元素('id', 'businessNature.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-业务性质-点击业务性质下拉框模块：查找元素成功，开始时间为2020-06-16 11:23:46.465813，结束时间为2020-06-16 11:23:46.471797,耗时0:00:00.005984
+INFO     root:basepage.py:222 调查录入-业务性质-点击业务性质下拉框模块:对元素('id', 'businessNature.LoanDataInputPanel')进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-业务性质-点击业务性质下拉框模块-元素('id', 'businessNature.LoanDataInputPanel')点击:开始时间为2020-06-16 11:23:46.471797，结束时间为2020-06-16 11:23:46.558565,耗时0:00:00.086768
+INFO     root:basepage.py:50 调查录入-业务性质-业务性质:自营模块:等待('xpath', "//div[text()='自营']")元素可见.
+INFO     root:basepage.py:62 调查录入-业务性质-业务性质:自营模块：等待元素可见成功！开始时间为2020-06-16 11:23:46.558565，结束时间为2020-06-16 11:23:46.582500,耗时0:00:00.023935
+INFO     root:basepage.py:97 调查录入-业务性质-业务性质:自营模块:开始查找元素('xpath', "//div[text()='自营']")
+INFO     root:basepage.py:109 调查录入-业务性质-业务性质:自营模块：查找元素成功，开始时间为2020-06-16 11:23:46.583496，结束时间为2020-06-16 11:23:46.592473,耗时0:00:00.008977
+INFO     root:basepage.py:222 调查录入-业务性质-业务性质:自营模块:对元素('xpath', "//div[text()='自营']")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-业务性质-业务性质:自营模块-元素('xpath', "//div[text()='自营']")点击:开始时间为2020-06-16 11:23:46.592473，结束时间为2020-06-16 11:23:46.664281,耗时0:00:00.071808
+INFO     root:basepage.py:50 调查录入-业务性质-点击客户性质下拉框模块:等待('id', 'custNature.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-业务性质-点击客户性质下拉框模块：等待元素可见成功！开始时间为2020-06-16 11:23:46.664281，结束时间为2020-06-16 11:23:46.693205,耗时0:00:00.028924
+INFO     root:basepage.py:97 调查录入-业务性质-点击客户性质下拉框模块:开始查找元素('id', 'custNature.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-业务性质-点击客户性质下拉框模块：查找元素成功，开始时间为2020-06-16 11:23:46.693205，结束时间为2020-06-16 11:23:46.700185,耗时0:00:00.006980
+INFO     root:basepage.py:222 调查录入-业务性质-点击客户性质下拉框模块:对元素('id', 'custNature.LoanDataInputPanel')进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-业务性质-点击客户性质下拉框模块-元素('id', 'custNature.LoanDataInputPanel')点击:开始时间为2020-06-16 11:23:46.700185，结束时间为2020-06-16 11:23:46.782008,耗时0:00:00.081823
+INFO     root:basepage.py:50 调查录入-业务性质-客户性质:新增模块:等待('xpath', "//div[text()='新增']")元素可见.
+INFO     root:basepage.py:62 调查录入-业务性质-客户性质:新增模块：等待元素可见成功！开始时间为2020-06-16 11:23:46.782008，结束时间为2020-06-16 11:23:46.806900,耗时0:00:00.024892
+INFO     root:basepage.py:97 调查录入-业务性质-客户性质:新增模块:开始查找元素('xpath', "//div[text()='新增']")
+INFO     root:basepage.py:109 调查录入-业务性质-客户性质:新增模块：查找元素成功，开始时间为2020-06-16 11:23:46.807897，结束时间为2020-06-16 11:23:46.817870,耗时0:00:00.009973
+INFO     root:basepage.py:222 调查录入-业务性质-客户性质:新增模块:对元素('xpath', "//div[text()='新增']")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-业务性质-客户性质:新增模块-元素('xpath', "//div[text()='新增']")点击:开始时间为2020-06-16 11:23:46.817870，结束时间为2020-06-16 11:23:46.884277,耗时0:00:00.066407
+INFO     root:basepage.py:50 调查录入-业务性质-输入是否托收模块:等待('id', 'collection.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-业务性质-输入是否托收模块：等待元素可见成功！开始时间为2020-06-16 11:23:46.884277，结束时间为2020-06-16 11:23:46.908213,耗时0:00:00.023936
+INFO     root:basepage.py:97 调查录入-业务性质-输入是否托收模块:开始查找元素('id', 'collection.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-业务性质-输入是否托收模块：查找元素成功，开始时间为2020-06-16 11:23:46.908213，结束时间为2020-06-16 11:23:46.916191,耗时0:00:00.007978
+INFO     root:basepage.py:249 调查录入-业务性质-输入是否托收#模块:('id', 'collection.LoanDataInputPanel')元素的输入框值为是
+INFO     root:basepage.py:262 调查录入-业务性质-输入是否托收模块：输入成功！开始时间为2020-06-16 11:23:46.916191，结束时间为2020-06-16 11:23:46.973040,耗时0:00:00.056849
+INFO     root:basepage.py:50 调查录入-业务性质-托收账号模块:等待('id', 'collectionNo.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-业务性质-托收账号模块：等待元素可见成功！开始时间为2020-06-16 11:23:46.973040，结束时间为2020-06-16 11:23:46.998969,耗时0:00:00.025929
+INFO     root:basepage.py:97 调查录入-业务性质-托收账号模块:开始查找元素('id', 'collectionNo.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-业务性质-托收账号模块：查找元素成功，开始时间为2020-06-16 11:23:46.999967，结束时间为2020-06-16 11:23:47.007946,耗时0:00:00.007979
+INFO     root:basepage.py:249 调查录入-业务性质-托收账号#模块:('id', 'collectionNo.LoanDataInputPanel')元素的输入框值为11312313123
+INFO     root:basepage.py:262 调查录入-业务性质-托收账号模块：输入成功！开始时间为2020-06-16 11:23:47.007946，结束时间为2020-06-16 11:23:47.147572,耗时0:00:00.139626
+INFO     root:basepage.py:50 调查录入-业务性质-担保合同号模块:等待('id', 'gurContNo.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-业务性质-担保合同号模块：等待元素可见成功！开始时间为2020-06-16 11:23:47.148571，结束时间为2020-06-16 11:23:47.173505,耗时0:00:00.024934
+INFO     root:basepage.py:97 调查录入-业务性质-担保合同号模块:开始查找元素('id', 'gurContNo.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-业务性质-担保合同号模块：查找元素成功，开始时间为2020-06-16 11:23:47.174500，结束时间为2020-06-16 11:23:47.182478,耗时0:00:00.007978
+INFO     root:basepage.py:249 调查录入-业务性质-担保合同号#模块:('id', 'gurContNo.LoanDataInputPanel')元素的输入框值为担保111111111
+INFO     root:basepage.py:262 调查录入-业务性质-担保合同号模块：输入成功！开始时间为2020-06-16 11:23:47.182478，结束时间为2020-06-16 11:23:47.322694,耗时0:00:00.140216
+INFO     root:basepage.py:50 调查录入-业务性质-点击业务类型下拉框模块:等待('id', 'ywlx.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-业务性质-点击业务类型下拉框模块：等待元素可见成功！开始时间为2020-06-16 11:23:47.323691，结束时间为2020-06-16 11:23:47.344635,耗时0:00:00.020944
+INFO     root:basepage.py:97 调查录入-业务性质-点击业务类型下拉框模块:开始查找元素('id', 'ywlx.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-业务性质-点击业务类型下拉框模块：查找元素成功，开始时间为2020-06-16 11:23:47.345651，结束时间为2020-06-16 11:23:47.352614,耗时0:00:00.006963
+INFO     root:basepage.py:222 调查录入-业务性质-点击业务类型下拉框模块:对元素('id', 'ywlx.LoanDataInputPanel')进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-业务性质-点击业务类型下拉框模块-元素('id', 'ywlx.LoanDataInputPanel')点击:开始时间为2020-06-16 11:23:47.352614，结束时间为2020-06-16 11:23:47.438384,耗时0:00:00.085770
+INFO     root:basepage.py:50 调查录入-业务性质-业务类型:续贷模块:等待('xpath', "//div[text()='续贷']")元素可见.
+INFO     root:basepage.py:62 调查录入-业务性质-业务类型:续贷模块：等待元素可见成功！开始时间为2020-06-16 11:23:47.438384，结束时间为2020-06-16 11:23:47.463829,耗时0:00:00.025445
+INFO     root:basepage.py:97 调查录入-业务性质-业务类型:续贷模块:开始查找元素('xpath', "//div[text()='续贷']")
+INFO     root:basepage.py:109 调查录入-业务性质-业务类型:续贷模块：查找元素成功，开始时间为2020-06-16 11:23:47.463829，结束时间为2020-06-16 11:23:47.471808,耗时0:00:00.007979
+INFO     root:basepage.py:222 调查录入-业务性质-业务类型:续贷模块:对元素('xpath', "//div[text()='续贷']")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-业务性质-业务类型:续贷模块-元素('xpath', "//div[text()='续贷']")点击:开始时间为2020-06-16 11:23:47.472808，结束时间为2020-06-16 11:23:47.543615,耗时0:00:00.070807
+INFO     root:basepage.py:50 调查录入-业务性质-支付宝账号模块:等待('id', 'zfbNo.LoanDataInputPanel')元素可见.
+INFO     root:basepage.py:62 调查录入-业务性质-支付宝账号模块：等待元素可见成功！开始时间为2020-06-16 11:23:47.543615，结束时间为2020-06-16 11:23:47.573052,耗时0:00:00.029437
+INFO     root:basepage.py:97 调查录入-业务性质-支付宝账号模块:开始查找元素('id', 'zfbNo.LoanDataInputPanel')
+INFO     root:basepage.py:109 调查录入-业务性质-支付宝账号模块：查找元素成功，开始时间为2020-06-16 11:23:47.573052，结束时间为2020-06-16 11:23:47.580033,耗时0:00:00.006981
+INFO     root:basepage.py:249 调查录入-业务性质-支付宝账号#模块:('id', 'zfbNo.LoanDataInputPanel')元素的输入框值为zfbw332432424
+INFO     root:basepage.py:262 调查录入-业务性质-支付宝账号模块：输入成功！开始时间为2020-06-16 11:23:47.580033，结束时间为2020-06-16 11:23:47.738610,耗时0:00:00.158577
+INFO     root:basepage.py:50 调查录入-点击生成还款计划表模块:等待('xpath', '//font[text()="生成还款计划"]')元素可见.
+INFO     root:basepage.py:62 调查录入-点击生成还款计划表模块：等待元素可见成功！开始时间为2020-06-16 11:23:47.738610，结束时间为2020-06-16 11:23:47.765538,耗时0:00:00.026928
+INFO     root:basepage.py:97 调查录入-点击生成还款计划表模块:开始查找元素('xpath', '//font[text()="生成还款计划"]')
+INFO     root:basepage.py:109 调查录入-点击生成还款计划表模块：查找元素成功，开始时间为2020-06-16 11:23:47.765538，结束时间为2020-06-16 11:23:47.774514,耗时0:00:00.008976
+INFO     root:basepage.py:222 调查录入-点击生成还款计划表模块:对元素('xpath', '//font[text()="生成还款计划"]')进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-点击生成还款计划表模块-元素('xpath', '//font[text()="生成还款计划"]')点击:开始时间为2020-06-16 11:23:47.774514，结束时间为2020-06-16 11:23:47.862278,耗时0:00:00.087764
+INFO     root:basepage.py:50 调查录入-拖到最底部找到保存按钮模块:等待('xpath', "//button[text()='保存']")元素可见.
+INFO     root:basepage.py:62 调查录入-拖到最底部找到保存按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:48.363262，结束时间为2020-06-16 11:23:48.402833,耗时0:00:00.039571
+INFO     root:basepage.py:97 调查录入-拖到最底部找到保存按钮模块:开始查找元素('xpath', "//button[text()='保存']")
+INFO     root:basepage.py:109 调查录入-拖到最底部找到保存按钮模块：查找元素成功，开始时间为2020-06-16 11:23:48.403868，结束时间为2020-06-16 11:23:48.433752,耗时0:00:00.029884
+INFO     root:basepage.py:140 调查录入-拖到最底部找到保存按钮模块：滚动到元素可见位置begin......
+INFO     root:basepage.py:152 调查录入-拖到最底部找到保存按钮模块：滚动到最底部成功，开始时间为2020-06-16 11:23:48.433752，结束时间为2020-06-16 11:23:48.450706,耗时0:00:00.016954
+INFO     root:basepage.py:50 调查录入-点击保存按钮模块:等待('xpath', "//button[text()='保存']")元素可见.
+INFO     root:basepage.py:62 调查录入-点击保存按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:48.450706，结束时间为2020-06-16 11:23:48.470651,耗时0:00:00.019945
+INFO     root:basepage.py:97 调查录入-点击保存按钮模块:开始查找元素('xpath', "//button[text()='保存']")
+INFO     root:basepage.py:109 调查录入-点击保存按钮模块：查找元素成功，开始时间为2020-06-16 11:23:48.470651，结束时间为2020-06-16 11:23:48.480625,耗时0:00:00.009974
+INFO     root:basepage.py:222 调查录入-点击保存按钮模块:对元素('xpath', "//button[text()='保存']")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-点击保存按钮模块-元素('xpath', "//button[text()='保存']")点击:开始时间为2020-06-16 11:23:48.480625，结束时间为2020-06-16 11:23:48.649176,耗时0:00:00.168551
+INFO     root:basepage.py:73 简化信贷-贷款申请成功的系统提示模块:等待('xpath', "//div[text()='请确认以上贷款信息，是否保存？']")元素存在.
+INFO     root:basepage.py:85 简化信贷-贷款申请成功的系统提示模块：等待存在成功！开始时间为2020-06-16 11:23:48.650173，结束时间为2020-06-16 11:23:48.671117,耗时0:00:00.020944
+INFO     root:basepage.py:97 简化信贷-贷款申请成功的系统提示模块:开始查找元素('xpath', "//div[text()='请确认以上贷款信息，是否保存？']")
+INFO     root:basepage.py:109 简化信贷-贷款申请成功的系统提示模块：查找元素成功，开始时间为2020-06-16 11:23:48.672149，结束时间为2020-06-16 11:23:48.681090,耗时0:00:00.008941
+INFO     root:basepage.py:278 简化信贷-贷款申请成功的系统提示模块:获取('xpath', "//div[text()='请确认以上贷款信息，是否保存？']")元素的文本内容开始了......
+INFO     root:basepage.py:291 获取成功，开始时间为2020-06-16 11:23:48.682088，结束时间为2020-06-16 11:23:48.696049,耗时0:00:00.013961
+INFO     root:basepage.py:50 调查录入-是否保存？是模块:等待('xpath', "//table[@id='yesBtn.XttsOtWin']//button[text()='是']")元素可见.
+INFO     root:basepage.py:62 调查录入-是否保存？是模块：等待元素可见成功！开始时间为2020-06-16 11:23:48.696049，结束时间为2020-06-16 11:23:48.719985,耗时0:00:00.023936
+INFO     root:basepage.py:97 调查录入-是否保存？是模块:开始查找元素('xpath', "//table[@id='yesBtn.XttsOtWin']//button[text()='是']")
+INFO     root:basepage.py:109 调查录入-是否保存？是模块：查找元素成功，开始时间为2020-06-16 11:23:48.719985，结束时间为2020-06-16 11:23:48.727964,耗时0:00:00.007979
+INFO     root:basepage.py:222 调查录入-是否保存？是模块:对元素('xpath', "//table[@id='yesBtn.XttsOtWin']//button[text()='是']")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-是否保存？是模块-元素('xpath', "//table[@id='yesBtn.XttsOtWin']//button[text()='是']")点击:开始时间为2020-06-16 11:23:48.728959，结束时间为2020-06-16 11:23:48.828693,耗时0:00:00.099734
+INFO     root:basepage.py:50 保存成功！模块:等待('xpath', '//span[text()="保存成功！"]')元素可见.
+INFO     root:basepage.py:62 保存成功！模块：等待元素可见成功！开始时间为2020-06-16 11:23:48.829726，结束时间为2020-06-16 11:23:49.368290,耗时0:00:00.538564
+INFO     root:basepage.py:97 保存成功！模块:开始查找元素('xpath', '//span[text()="保存成功！"]')
+INFO     root:basepage.py:109 保存成功！模块：查找元素成功，开始时间为2020-06-16 11:23:49.368290，结束时间为2020-06-16 11:23:49.377266,耗时0:00:00.008976
+INFO     root:basepage.py:222 保存成功！模块:对元素('xpath', '//span[text()="保存成功！"]')进行点击操作begin......
+INFO     root:basepage.py:233 保存成功！模块-元素('xpath', '//span[text()="保存成功！"]')点击:开始时间为2020-06-16 11:23:49.377266，结束时间为2020-06-16 11:23:49.446081,耗时0:00:00.068815
+INFO     root:basepage.py:50 保存成功弹出框的的确定按钮模块:等待('xpath', '//button[text()="确定"]')元素可见.
+INFO     root:basepage.py:62 保存成功弹出框的的确定按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:49.447079，结束时间为2020-06-16 11:23:49.471014,耗时0:00:00.023935
+INFO     root:basepage.py:97 保存成功弹出框的的确定按钮模块:开始查找元素('xpath', '//button[text()="确定"]')
+INFO     root:basepage.py:109 保存成功弹出框的的确定按钮模块：查找元素成功，开始时间为2020-06-16 11:23:49.472043，结束时间为2020-06-16 11:23:49.480988,耗时0:00:00.008945
+INFO     root:basepage.py:222 保存成功弹出框的的确定按钮模块:对元素('xpath', '//button[text()="确定"]')进行点击操作begin......
+INFO     root:basepage.py:233 保存成功弹出框的的确定按钮模块-元素('xpath', '//button[text()="确定"]')点击:开始时间为2020-06-16 11:23:49.482034，结束时间为2020-06-16 11:23:49.633580,耗时0:00:00.151546
+INFO     root:basepage.py:50 调查录入-点击提交按钮模块:等待('xpath', "//table[@id='submitBt']//button[text()='提交']")元素可见.
+INFO     root:basepage.py:62 调查录入-点击提交按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:50.634501，结束时间为2020-06-16 11:23:50.660433,耗时0:00:00.025932
+INFO     root:basepage.py:97 调查录入-点击提交按钮模块:开始查找元素('xpath', "//table[@id='submitBt']//button[text()='提交']")
+INFO     root:basepage.py:109 调查录入-点击提交按钮模块：查找元素成功，开始时间为2020-06-16 11:23:50.660433，结束时间为2020-06-16 11:23:50.671433,耗时0:00:00.011000
+INFO     root:basepage.py:222 调查录入-点击提交按钮模块:对元素('xpath', "//table[@id='submitBt']//button[text()='提交']")进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-点击提交按钮模块-元素('xpath', "//table[@id='submitBt']//button[text()='提交']")点击:开始时间为2020-06-16 11:23:50.671433，结束时间为2020-06-16 11:23:50.769182,耗时0:00:00.097749
+INFO     root:basepage.py:50 调查录入-点击提确定按钮模块:等待('xpath', '//button[text()="确定"]')元素可见.
+INFO     root:basepage.py:62 调查录入-点击提确定按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:50.769182，结束时间为2020-06-16 11:23:51.326260,耗时0:00:00.557078
+INFO     root:basepage.py:97 调查录入-点击提确定按钮模块:开始查找元素('xpath', '//button[text()="确定"]')
+INFO     root:basepage.py:109 调查录入-点击提确定按钮模块：查找元素成功，开始时间为2020-06-16 11:23:51.327292，结束时间为2020-06-16 11:23:51.336232,耗时0:00:00.008940
+INFO     root:basepage.py:222 调查录入-点击提确定按钮模块:对元素('xpath', '//button[text()="确定"]')进行点击操作begin......
+INFO     root:basepage.py:233 调查录入-点击提确定按钮模块-元素('xpath', '//button[text()="确定"]')点击:开始时间为2020-06-16 11:23:51.336232，结束时间为2020-06-16 11:23:51.405048,耗时0:00:00.068816
+INFO     root:basepage.py:353 ('xpath', "//span[text()='合同签约']")：检测元素存在且可见于页面。
+INFO     root:basepage.py:361 10内元素可见。
+INFO     root:basepage.py:50 简化信贷--合同签约-点击进入模块:等待('xpath', "//h1[text()='合同签约']/following-sibling::button[1]")元素可见.
+INFO     root:basepage.py:62 简化信贷--合同签约-点击进入模块：等待元素可见成功！开始时间为2020-06-16 11:23:52.331779，结束时间为2020-06-16 11:23:52.354716,耗时0:00:00.022937
+INFO     root:basepage.py:97 简化信贷--合同签约-点击进入模块:开始查找元素('xpath', "//h1[text()='合同签约']/following-sibling::button[1]")
+INFO     root:basepage.py:109 简化信贷--合同签约-点击进入模块：查找元素成功，开始时间为2020-06-16 11:23:52.354716，结束时间为2020-06-16 11:23:52.362695,耗时0:00:00.007979
+INFO     root:basepage.py:222 简化信贷--合同签约-点击进入模块:对元素('xpath', "//h1[text()='合同签约']/following-sibling::button[1]")进行点击操作begin......
+INFO     root:basepage.py:233 简化信贷--合同签约-点击进入模块-元素('xpath', "//h1[text()='合同签约']/following-sibling::button[1]")点击:开始时间为2020-06-16 11:23:52.363693，结束时间为2020-06-16 11:23:52.434503,耗时0:00:00.070810
+INFO     root:basepage.py:50 简化信贷--合同签约--滚动页面将保存按钮给展示出来模块:等待('xpath', "//table[@id='btSave']//button[text()='保存']")元素可见.
+INFO     root:basepage.py:62 简化信贷--合同签约--滚动页面将保存按钮给展示出来模块：等待元素可见成功！开始时间为2020-06-16 11:23:53.434646，结束时间为2020-06-16 11:23:53.459579,耗时0:00:00.024933
+INFO     root:basepage.py:97 简化信贷--合同签约--滚动页面将保存按钮给展示出来模块:开始查找元素('xpath', "//table[@id='btSave']//button[text()='保存']")
+INFO     root:basepage.py:109 简化信贷--合同签约--滚动页面将保存按钮给展示出来模块：查找元素成功，开始时间为2020-06-16 11:23:53.460577，结束时间为2020-06-16 11:23:53.467558,耗时0:00:00.006981
+INFO     root:basepage.py:140 简化信贷--合同签约--滚动页面将保存按钮给展示出来模块：滚动到元素可见位置begin......
+INFO     root:basepage.py:152 简化信贷--合同签约--滚动页面将保存按钮给展示出来模块：滚动到最底部成功，开始时间为2020-06-16 11:23:53.468556，结束时间为2020-06-16 11:23:53.478530,耗时0:00:00.009974
+INFO     root:basepage.py:50 简化信贷--合同签约-点击进入-点击保存按钮模块:等待('xpath', "//table[@id='btSave']//button[text()='保存']")元素可见.
+INFO     root:basepage.py:62 简化信贷--合同签约-点击进入-点击保存按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:53.478530，结束时间为2020-06-16 11:23:53.498478,耗时0:00:00.019948
+INFO     root:basepage.py:97 简化信贷--合同签约-点击进入-点击保存按钮模块:开始查找元素('xpath', "//table[@id='btSave']//button[text()='保存']")
+INFO     root:basepage.py:109 简化信贷--合同签约-点击进入-点击保存按钮模块：查找元素成功，开始时间为2020-06-16 11:23:53.498478，结束时间为2020-06-16 11:23:53.507454,耗时0:00:00.008976
+INFO     root:basepage.py:222 简化信贷--合同签约-点击进入-点击保存按钮模块:对元素('xpath', "//table[@id='btSave']//button[text()='保存']")进行点击操作begin......
+INFO     root:basepage.py:233 简化信贷--合同签约-点击进入-点击保存按钮模块-元素('xpath', "//table[@id='btSave']//button[text()='保存']")点击:开始时间为2020-06-16 11:23:53.507454，结束时间为2020-06-16 11:23:53.603196,耗时0:00:00.095742
+INFO     root:basepage.py:50 简化信贷--合同签约-点击进入-点击确认是否保存按钮模块:等待('xpath', "//button[text()='是']")元素可见.
+INFO     root:basepage.py:62 简化信贷--合同签约-点击进入-点击确认是否保存按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:53.603196，结束时间为2020-06-16 11:23:53.628129,耗时0:00:00.024933
+INFO     root:basepage.py:97 简化信贷--合同签约-点击进入-点击确认是否保存按钮模块:开始查找元素('xpath', "//button[text()='是']")
+INFO     root:basepage.py:109 简化信贷--合同签约-点击进入-点击确认是否保存按钮模块：查找元素成功，开始时间为2020-06-16 11:23:53.628129，结束时间为2020-06-16 11:23:53.636108,耗时0:00:00.007979
+INFO     root:basepage.py:222 简化信贷--合同签约-点击进入-点击确认是否保存按钮模块:对元素('xpath', "//button[text()='是']")进行点击操作begin......
+INFO     root:basepage.py:233 简化信贷--合同签约-点击进入-点击确认是否保存按钮模块-元素('xpath', "//button[text()='是']")点击:开始时间为2020-06-16 11:23:53.637106，结束时间为2020-06-16 11:23:53.711906,耗时0:00:00.074800
+INFO     root:basepage.py:50 简化信贷--合同签约-点击进入-点击是模块:等待('xpath', "//button[text()='确定']")元素可见.
+INFO     root:basepage.py:62 简化信贷--合同签约-点击进入-点击是模块：等待元素可见成功！开始时间为2020-06-16 11:23:53.711906，结束时间为2020-06-16 11:23:54.274400,耗时0:00:00.562494
+INFO     root:basepage.py:97 简化信贷--合同签约-点击进入-点击是模块:开始查找元素('xpath', "//button[text()='确定']")
+INFO     root:basepage.py:109 简化信贷--合同签约-点击进入-点击是模块：查找元素成功，开始时间为2020-06-16 11:23:54.274400，结束时间为2020-06-16 11:23:54.283377,耗时0:00:00.008977
+INFO     root:basepage.py:222 简化信贷--合同签约-点击进入-点击是模块:对元素('xpath', "//button[text()='确定']")进行点击操作begin......
+INFO     root:basepage.py:233 简化信贷--合同签约-点击进入-点击是模块-元素('xpath', "//button[text()='确定']")点击:开始时间为2020-06-16 11:23:54.284375，结束时间为2020-06-16 11:23:54.353190,耗时0:00:00.068815
+INFO     root:basepage.py:50 简化信贷--合同签约-点击进入-点击提交按钮模块:等待('xpath', "//button[text()='提交']")元素可见.
+INFO     root:basepage.py:62 简化信贷--合同签约-点击进入-点击提交按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:54.854327，结束时间为2020-06-16 11:23:54.884089,耗时0:00:00.029762
+INFO     root:basepage.py:97 简化信贷--合同签约-点击进入-点击提交按钮模块:开始查找元素('xpath', "//button[text()='提交']")
+INFO     root:basepage.py:109 简化信贷--合同签约-点击进入-点击提交按钮模块：查找元素成功，开始时间为2020-06-16 11:23:54.885088，结束时间为2020-06-16 11:23:54.895060,耗时0:00:00.009972
+INFO     root:basepage.py:222 简化信贷--合同签约-点击进入-点击提交按钮模块:对元素('xpath', "//button[text()='提交']")进行点击操作begin......
+INFO     root:basepage.py:233 简化信贷--合同签约-点击进入-点击提交按钮模块-元素('xpath', "//button[text()='提交']")点击:开始时间为2020-06-16 11:23:54.895060，结束时间为2020-06-16 11:23:54.987831,耗时0:00:00.092771
+INFO     root:basepage.py:50 简化信贷--合同签约-点击进入-点击提确认按钮模块:等待('xpath', "//button[text()='确定']")元素可见.
+INFO     root:basepage.py:62 简化信贷--合同签约-点击进入-点击提确认按钮模块：等待元素可见成功！开始时间为2020-06-16 11:23:54.987831，结束时间为2020-06-16 11:23:55.528366,耗时0:00:00.540535
+INFO     root:basepage.py:97 简化信贷--合同签约-点击进入-点击提确认按钮模块:开始查找元素('xpath', "//button[text()='确定']")
+INFO     root:basepage.py:109 简化信贷--合同签约-点击进入-点击提确认按钮模块：查找元素成功，开始时间为2020-06-16 11:23:55.528366，结束时间为2020-06-16 11:23:55.535347,耗时0:00:00.006981
+INFO     root:basepage.py:222 简化信贷--合同签约-点击进入-点击提确认按钮模块:对元素('xpath', "//button[text()='确定']")进行点击操作begin......
+INFO     root:basepage.py:233 简化信贷--合同签约-点击进入-点击提确认按钮模块-元素('xpath', "//button[text()='确定']")点击:开始时间为2020-06-16 11:23:55.536397，结束时间为2020-06-16 11:23:55.596185,耗时0:00:00.059788

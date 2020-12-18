@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 16 15:11:09 CST 2020","Tue Jun 16 15:12:24 CST 2020","74402","TestCases","test_jhxd_apply","TestEnterMain","","","test_add_success_15",""
+"passed","Tue Jun 16 15:10:09 CST 2020","Tue Jun 16 15:11:09 CST 2020","60431","TestCases","test_jhxd_apply","TestEnterMain","","","test_add_success_14",""
+"passed","Tue Jun 16 15:13:24 CST 2020","Tue Jun 16 15:14:23 CST 2020","59087","TestCases","test_jhxd_apply","TestEnterMain","","","test_add_success_17",""
+"passed","Tue Jun 16 15:12:24 CST 2020","Tue Jun 16 15:13:24 CST 2020","60522","TestCases","test_jhxd_apply","TestEnterMain","","","test_add_success_16",""
+"passed","Tue Jun 16 15:14:45 CST 2020","Tue Jun 16 15:14:45 CST 2020","0","TestCases","test_login","TestLogin","","","test_01",""
+"passed","Tue Jun 16 15:14:41 CST 2020","Tue Jun 16 15:14:42 CST 2020","1311","TestCases","test_login","TestLogin","","","test_login_success",""

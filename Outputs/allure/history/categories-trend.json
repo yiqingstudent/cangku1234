@@ -1,0 +1,15 @@
+[ {
+  "buildOrder" : 10,
+  "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 1
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://172.31.19.92:8096/job/xindai_web_allure/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 1
+  }
+} ]
